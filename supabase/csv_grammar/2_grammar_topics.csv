@@ -1,0 +1,302 @@
+id,level,position,l1,l2,l3
+1-1,1,1,Thông tin cơ bản,Thông tin cá nhân,"Họ tên, quốc tịch, tuổi, giới tính, sở thích, thói quen; thân phận, thành viên gia đình, bạn bè, kỹ năng"
+1-2,1,2,Thông tin cơ bản,Thông tin sự việc,"Ngày tháng, thời gian, địa điểm, phương hướng, người tham gia, số hiệu"
+1-3,1,3,Thông tin cơ bản,Thông tin đồ vật,Tên đồ vật; đặc điểm đồ vật
+1-4,1,4,Thông tin cơ bản,Thông tin môi trường,Thời tiết; đặc điểm môi trường
+1-5,1,5,Đời sống hằng ngày,Giao tiếp,Hành vi lịch sự cơ bản; tương tác đơn giản; ý muốn và cảm nhận
+1-6,1,6,Đời sống hằng ngày,Ăn uống,"Đồ ăn, thức uống; đi ăn, dùng bữa"
+1-7,1,7,Đời sống hằng ngày,Giao thông đi lại,Hỏi đường; phương thức đi lại; kế hoạch đi lại
+1-8,1,8,Đời sống hằng ngày,Mua sắm,Tên hàng hóa; giá cả; lựa chọn mua
+1-9,1,9,Đời sống hằng ngày,Y tế sức khỏe,"Bị bệnh, đi khám bệnh, thăm bệnh"
+1-10,1,10,Đời sống hằng ngày,Giải trí,Hoạt động giải trí
+1-11,1,11,Giáo dục,Học tập,Thông tin môn học; nội dung học tập; bậc học
+1-12,1,12,Giáo dục,Đời sống trường học,Tình hình nhà trường; hoạt động sau giờ học
+1-13,1,13,Đời sống nghề nghiệp,Công việc,Thông tin công việc; đánh giá công việc
+1-14,1,14,Đời sống nghề nghiệp,Nghề nghiệp,Các loại nghề
+1-15,1,15,Văn hóa và truyền thống,Văn hóa ẩm thực,Ẩm thực Trung Hoa; đồ uống truyền thống
+2-1,2,1,Thông tin cơ bản,Thông tin cá nhân,"Ngoại hình, trang phục, sinh nhật; thân phận, thói quen, sở thích, nơi đến từ"
+2-2,2,2,Thông tin cơ bản,Thông tin sự việc,"Sự kiện, nhân vật, thời gian, cách thức, địa điểm, nguyên nhân, sự thay đổi, trạng thái"
+2-3,2,3,Thông tin cơ bản,Thông tin đồ vật,"Tên gọi, màu sắc, sự khác biệt, số lượng, vị trí, đặc điểm"
+2-4,2,4,Thông tin cơ bản,Thông tin môi trường,Thời tiết; đặc điểm môi trường
+2-5,2,5,Đời sống hằng ngày,Giao tiếp,Hành vi lịch sự cơ bản; tương tác đơn giản; ý muốn và cảm nhận
+2-6,2,6,Đời sống hằng ngày,Ăn uống,"Đồ ăn, thức uống; thói quen ăn uống; đi ăn"
+2-7,2,7,Đời sống hằng ngày,Giao thông đi lại,Hỏi đường; phương thức đi lại; kế hoạch đi lại; cảm nhận khi đi lại
+2-8,2,8,Đời sống hằng ngày,Mua sắm,Lựa chọn mua hàng; mô tả sản phẩm
+2-9,2,9,Đời sống hằng ngày,Y tế sức khỏe,Bị bệnh; đi khám chữa bệnh
+2-10,2,10,Đời sống hằng ngày,Giải trí,Hoạt động giải trí; sắp xếp hoạt động giải trí
+2-11,2,11,Đời sống hằng ngày,Đời sống gia đình,Quan hệ gia đình; hoạt động gia đình
+2-12,2,12,Giáo dục,Học tập,Tình hình học tập cơ bản; kinh nghiệm học tập
+2-13,2,13,Giáo dục,Đời sống trường học,Tình hình nhà trường; hoạt động sau giờ học
+2-14,2,14,Đời sống nghề nghiệp,Công việc,Thông tin công việc; kinh nghiệm làm việc và cảm nhận công việc
+2-15,2,15,Đời sống nghề nghiệp,Nghề nghiệp,Tình trạng nghề nghiệp
+2-16,2,16,Văn hóa và truyền thống,Phong tục truyền thống,Lễ hội
+2-17,2,17,Văn hóa và truyền thống,Văn hóa ẩm thực,Ấn tượng về ẩm thực Trung Hoa
+2-18,2,18,Văn hóa và truyền thống,Văn hóa họ tên,Các họ phổ biến; cách xưng hô trang trọng
+3-1,3,1,Đời sống hằng ngày,Tình hình cá nhân,Thông tin cá nhân
+3-2,3,2,Đời sống hằng ngày,Tình hình cá nhân,Đặc điểm cá nhân
+3-3,3,3,Đời sống hằng ngày,Công việc hằng ngày,Xử lý sự việc
+3-4,3,4,Đời sống hằng ngày,Công việc hằng ngày,Thực hiện thủ tục
+3-5,3,5,Đời sống hằng ngày,Giao tiếp,Hành vi lịch sự
+3-6,3,6,Đời sống hằng ngày,Giao tiếp,Ý muốn và cảm nhận
+3-7,3,7,Đời sống hằng ngày,Ăn uống,"Đồ ăn, thức uống"
+3-8,3,8,Đời sống hằng ngày,Ăn uống,Thói quen ăn uống
+3-9,3,9,Đời sống hằng ngày,Ăn uống,Đi ăn
+3-10,3,10,Đời sống hằng ngày,Giao thông đi lại,Phương thức đi lại
+3-11,3,11,Đời sống hằng ngày,Giao thông đi lại,Kế hoạch đi lại
+3-12,3,12,Đời sống hằng ngày,Giao thông đi lại,Trải nghiệm đi lại
+3-13,3,13,Đời sống hằng ngày,Giao thông đi lại,Quy tắc giao thông
+3-14,3,14,Đời sống hằng ngày,Mua sắm,Lựa chọn mua hàng
+3-15,3,15,Đời sống hằng ngày,Mua sắm,Trải nghiệm mua sắm
+3-16,3,16,Đời sống hằng ngày,Y tế sức khỏe,Bị bệnh
+3-17,3,17,Đời sống hằng ngày,Y tế sức khỏe,Đi khám chữa bệnh
+3-18,3,18,Đời sống hằng ngày,Y tế sức khỏe,Thăm bệnh
+3-19,3,19,Đời sống hằng ngày,Y tế sức khỏe,Quan niệm về sức khỏe
+3-20,3,20,Đời sống hằng ngày,Giải trí,Hoạt động giải trí
+3-21,3,21,Đời sống hằng ngày,Giải trí,Trải nghiệm hoạt động
+3-22,3,22,Đời sống hằng ngày,Cộng đồng,Tình hình cư trú
+3-23,3,23,Đời sống hằng ngày,Đời sống gia đình,Thói quen sinh hoạt
+3-24,3,24,Đời sống hằng ngày,Đời sống gia đình,Quan hệ gia đình
+3-25,3,25,Đời sống hằng ngày,Đời sống gia đình,Công việc gia đình
+3-26,3,26,Giáo dục,Học tập,Tình hình khóa học
+3-27,3,27,Giáo dục,Học tập,Hoạt động học tập
+3-28,3,28,Giáo dục,Học tập,Môi trường học tập
+3-29,3,29,Giáo dục,Học tập,Kinh nghiệm học tập
+3-30,3,30,Giáo dục,Đời sống trường học,Hoạt động trong khuôn viên
+3-31,3,31,Giáo dục,Đời sống trường học,Tình hình nhà trường
+3-32,3,32,Giáo dục,Vấn đề giáo dục,Giáo dục gia đình
+3-33,3,33,Đời sống nghề nghiệp,Công việc văn phòng,Công việc hành chính
+3-34,3,34,Đời sống nghề nghiệp,Công việc văn phòng,Biểu hiện công việc
+3-35,3,35,Đời sống nghề nghiệp,Công việc văn phòng,Môi trường làm việc
+3-36,3,36,Đời sống nghề nghiệp,Công việc văn phòng,Quan hệ đồng nghiệp
+3-37,3,37,Đời sống nghề nghiệp,Nghề nghiệp và kinh nghiệm,Kinh nghiệm làm việc
+3-38,3,38,Đời sống nghề nghiệp,Nghề nghiệp và kinh nghiệm,Đánh giá nghề nghiệp
+3-39,3,39,Tự nhiên và môi trường,Tự nhiên,Khí hậu
+3-40,3,40,Tự nhiên và môi trường,Tự nhiên,Mùa
+3-41,3,41,Tự nhiên và môi trường,Tự nhiên,Động thực vật
+3-42,3,42,Tự nhiên và môi trường,Tự nhiên,Cảnh quan thiên nhiên
+3-43,3,43,Tự nhiên và môi trường,Môi trường,Tình trạng môi trường
+3-44,3,44,Tự nhiên và môi trường,Môi trường,Bảo vệ môi trường
+3-45,3,45,Xã hội đương đại,Tình hình xã hội,Đời sống hiện đại
+3-46,3,46,Xã hội đương đại,Tình hình xã hội,Phát triển đô thị
+3-47,3,47,Xã hội đương đại,Văn hóa nghệ thuật,Hoạt động văn nghệ
+3-48,3,48,Xã hội đương đại,Thể thao,Môn thể thao
+3-49,3,49,Xã hội đương đại,Thể thao,Thi đấu thể thao
+3-50,3,50,Văn hóa và truyền thống,Văn hóa ẩm thực,Ẩm thực đặc trưng
+3-51,3,51,Văn hóa và truyền thống,Văn hóa ẩm thực,Dụng cụ ăn uống
+3-52,3,52,Văn hóa và truyền thống,Phong tục truyền thống,Lễ hội và phong tục
+3-53,3,53,Văn hóa và truyền thống,Phong tục truyền thống,Khác biệt vùng miền
+4-1,4,1,Đời sống hằng ngày,Tình hình cá nhân,Thông tin cá nhân
+4-2,4,2,Đời sống hằng ngày,Tình hình cá nhân,Đặc điểm cá nhân
+4-3,4,3,Đời sống hằng ngày,Công việc hằng ngày,Thực hiện thủ tục
+4-4,4,4,Đời sống hằng ngày,Công việc hằng ngày,Tìm kiếm sự trợ giúp khi gặp khó khăn
+4-5,4,5,Đời sống hằng ngày,Giao tiếp,Hành vi lịch sự
+4-6,4,6,Đời sống hằng ngày,Giao tiếp,Tình cảm
+4-7,4,7,Đời sống hằng ngày,Giao tiếp,Cảm nhận và suy ngẫm
+4-8,4,8,Đời sống hằng ngày,Ăn uống,"Đồ ăn, thức uống"
+4-9,4,9,Đời sống hằng ngày,Ăn uống,Đi ăn
+4-10,4,10,Đời sống hằng ngày,Ăn uống,Nấu ăn
+4-11,4,11,Đời sống hằng ngày,Giao thông đi lại,Trải nghiệm đi lại
+4-12,4,12,Đời sống hằng ngày,Giao thông đi lại,Giao thông
+4-13,4,13,Đời sống hằng ngày,Mua sắm,Lựa chọn mua hàng
+4-14,4,14,Đời sống hằng ngày,Mua sắm,Trải nghiệm mua sắm
+4-15,4,15,Đời sống hằng ngày,Mua sắm,Hoạt động của cửa hàng
+4-16,4,16,Đời sống hằng ngày,Y tế sức khỏe,Khám chữa bệnh
+4-17,4,17,Đời sống hằng ngày,Y tế sức khỏe,Lối sống lành mạnh
+4-18,4,18,Đời sống hằng ngày,Giải trí,Hoạt động giải trí
+4-19,4,19,Đời sống hằng ngày,Giải trí,Cảm nhận và quan điểm về hoạt động
+4-20,4,20,Đời sống hằng ngày,Cộng đồng,Tình hình cư trú
+4-21,4,21,Đời sống hằng ngày,Cộng đồng,Đời sống cộng đồng
+4-22,4,22,Đời sống hằng ngày,Cộng đồng,Thuê và mua bán nhà ở
+4-23,4,23,Đời sống hằng ngày,Đời sống gia đình,Đời sống tại nhà
+4-24,4,24,Đời sống hằng ngày,Đời sống gia đình,Quan hệ gia đình
+4-25,4,25,Đời sống hằng ngày,Đời sống gia đình,Quá trình trưởng thành
+4-26,4,26,Đời sống hằng ngày,Đời sống gia đình,Thói quen sinh hoạt
+4-27,4,27,Đời sống hằng ngày,Đời sống gia đình,Công việc gia đình
+4-28,4,28,Giáo dục,Học tập,Tình hình khóa học
+4-29,4,29,Giáo dục,Học tập,Tình hình giảng dạy
+4-30,4,30,Giáo dục,Học tập,Kinh nghiệm học tập
+4-31,4,31,Giáo dục,Học tập,Cảm nhận học tập
+4-32,4,32,Giáo dục,Đời sống trường học,Hoạt động trong khuôn viên
+4-33,4,33,Giáo dục,Đời sống trường học,Tình hình nhà trường
+4-34,4,34,Giáo dục,Vấn đề giáo dục,Giáo dục gia đình
+4-35,4,35,Giáo dục,Vấn đề giáo dục,Giáo dục xã hội
+4-36,4,36,Đời sống nghề nghiệp,Công việc văn phòng,Công việc hành chính
+4-37,4,37,Đời sống nghề nghiệp,Công việc văn phòng,Biểu hiện công việc
+4-38,4,38,Đời sống nghề nghiệp,Công việc văn phòng,Giao tiếp nơi công sở
+4-39,4,39,Đời sống nghề nghiệp,Nghề nghiệp và kinh nghiệm,Kinh nghiệm làm việc
+4-40,4,40,Đời sống nghề nghiệp,Nghề nghiệp và kinh nghiệm,Tình trạng và đánh giá nghề nghiệp
+4-41,4,41,Đời sống nghề nghiệp,Tình hình đơn vị,Quản lý nhân sự
+4-42,4,42,Đời sống nghề nghiệp,Tình hình đơn vị,Môi trường làm việc và chế độ đãi ngộ
+4-43,4,43,Tự nhiên và môi trường,Tự nhiên,Địa lý
+4-44,4,44,Tự nhiên và môi trường,Tự nhiên,Khí hậu
+4-45,4,45,Tự nhiên và môi trường,Tự nhiên,Động thực vật
+4-46,4,46,Tự nhiên và môi trường,Tự nhiên,Cảnh quan thiên nhiên
+4-47,4,47,Tự nhiên và môi trường,Tự nhiên,Hiện tượng tự nhiên
+4-48,4,48,Tự nhiên và môi trường,Môi trường,Tình trạng môi trường
+4-49,4,49,Tự nhiên và môi trường,Môi trường,Bảo vệ môi trường
+4-50,4,50,Khoa học và công nghệ,Phát triển khoa học công nghệ,Ứng dụng công nghệ mới
+4-51,4,51,Khoa học và công nghệ,Kiến thức khoa học,Kiến thức phổ thông khoa học
+4-52,4,52,Khoa học và công nghệ,Kiến thức khoa học,Thành tựu nghiên cứu khoa học
+4-53,4,53,Xã hội đương đại,Tổng quan,"Thủ đô, các tỉnh thành chính"
+4-54,4,54,Xã hội đương đại,Tổng quan,Các dân tộc thiểu số
+4-55,4,55,Xã hội đương đại,Hiện tượng kinh tế,Sản phẩm thịnh hành
+4-56,4,56,Xã hội đương đại,Hiện tượng kinh tế,Mô hình kinh doanh mới
+4-57,4,57,Xã hội đương đại,Hiện tượng kinh tế,Tình hình kinh tế
+4-58,4,58,Xã hội đương đại,Hiện tượng xã hội,Quan niệm sống
+4-59,4,59,Xã hội đương đại,Hiện tượng xã hội,Đời sống mạng
+4-60,4,60,Xã hội đương đại,Hiện tượng xã hội,Cơ sở hạ tầng
+4-61,4,61,Xã hội đương đại,Hiện tượng xã hội,Trào lưu phổ biến
+4-62,4,62,Xã hội đương đại,Văn hóa nghệ thuật,Hình thức văn nghệ
+4-63,4,63,Xã hội đương đại,Văn hóa nghệ thuật,Hoạt động văn nghệ
+4-64,4,64,Xã hội đương đại,Văn hóa nghệ thuật,Tác giả và tác phẩm
+4-65,4,65,Xã hội đương đại,Thể thao,Môn thể thao
+4-66,4,66,Xã hội đương đại,Thể thao,Thi đấu thể thao
+4-67,4,67,Xã hội đương đại,Thể thao,Nhân vật và câu chuyện thể thao
+4-68,4,68,Xã hội đương đại,Giao lưu quốc tế,Giao lưu hữu nghị
+4-69,4,69,Văn hóa và truyền thống,Ngôn ngữ chữ viết,"Tục ngữ, danh ngôn"
+4-70,4,70,Văn hóa và truyền thống,Văn hóa ẩm thực,Quan niệm ẩm thực truyền thống
+4-71,4,71,Văn hóa và truyền thống,Văn hóa ẩm thực,"Ẩm thực vùng miền, cửa hàng truyền thống, thương hiệu"
+4-72,4,72,Văn hóa và truyền thống,Phong tục truyền thống,Lễ hội và phong tục
+4-73,4,73,Văn hóa và truyền thống,Phong tục truyền thống,Quốc túy
+4-74,4,74,Văn hóa và truyền thống,Phong tục truyền thống,Truyền thống các vùng
+4-75,4,75,Văn hóa và truyền thống,Phong tục truyền thống,Nghi thức giao tiếp
+4-76,4,76,Văn hóa và truyền thống,Di sản văn hóa,Danh lam thắng cảnh
+4-77,4,77,Văn hóa và truyền thống,Lịch sử,"Nhân vật lịch sử, sự kiện lịch sử"
+5-1,5,1,Đời sống hằng ngày,Công việc thường ngày,Thực hiện thủ tục
+5-2,5,2,Đời sống hằng ngày,Công việc thường ngày,Tìm kiếm sự trợ giúp khi gặp khó khăn
+5-3,5,3,Đời sống hằng ngày,Ăn uống,Đi ăn
+5-4,5,4,Đời sống hằng ngày,Ăn uống,Trải nghiệm ẩm thực
+5-5,5,5,Đời sống hằng ngày,Giao thông đi lại,Vận tải giao thông
+5-6,5,6,Đời sống hằng ngày,Giao thông đi lại,Trải nghiệm đi lại
+5-7,5,7,Đời sống hằng ngày,Mua sắm,Lựa chọn mua hàng
+5-8,5,8,Đời sống hằng ngày,Mua sắm,Hoạt động tiêu dùng
+5-9,5,9,Đời sống hằng ngày,Y tế sức khỏe,Khám chữa bệnh
+5-10,5,10,Đời sống hằng ngày,Y tế sức khỏe,Sức khỏe tâm lý
+5-11,5,11,Đời sống hằng ngày,Y tế sức khỏe,Lối sống lành mạnh
+5-12,5,12,Đời sống hằng ngày,Giải trí,Hoạt động giải trí
+5-13,5,13,Đời sống hằng ngày,Giải trí,"Cảm nhận hoạt động, suy nghĩ cuộc sống, quan niệm 人生"
+5-14,5,14,Đời sống hằng ngày,Cộng đồng,Tình hình cư trú
+5-15,5,15,Đời sống hằng ngày,Cộng đồng,Quản lý cộng đồng
+5-16,5,16,Đời sống hằng ngày,Cộng đồng,Đời sống cộng đồng
+5-17,5,17,Đời sống hằng ngày,Đời sống gia đình,Đời sống tại nhà
+5-18,5,18,Đời sống hằng ngày,Đời sống gia đình,Hoạt động gia đình
+5-19,5,19,Đời sống hằng ngày,Đời sống gia đình,Vấn đề gia đình
+5-20,5,20,Giáo dục,Học tập,Tình hình khóa học
+5-21,5,21,Giáo dục,Học tập,Tình hình giảng dạy
+5-22,5,22,Giáo dục,Học tập,Kinh nghiệm học tập
+5-23,5,23,Giáo dục,Học tập,Cảm nhận học tập
+5-24,5,24,Giáo dục,Đời sống trường học,Hoạt động trong khuôn viên
+5-25,5,25,Giáo dục,Đời sống trường học,Tình hình nhà trường
+5-26,5,26,Giáo dục,Vấn đề giáo dục,Giáo dục gia đình
+5-27,5,27,Giáo dục,Vấn đề giáo dục,"Giáo dục nhà trường, giáo dục xã hội, giáo dục nghề nghiệp"
+5-28,5,28,Đời sống nghề nghiệp,Nghề nghiệp và kinh nghiệm,Nội dung công việc
+5-29,5,29,Đời sống nghề nghiệp,Nghề nghiệp và kinh nghiệm,Kinh nghiệm làm việc
+5-30,5,30,Đời sống nghề nghiệp,Quản lý và điều hành,Hợp tác nhóm
+5-31,5,31,Đời sống nghề nghiệp,Quản lý và điều hành,Quản lý nhân sự
+5-32,5,32,Đời sống nghề nghiệp,Quản lý và điều hành,Phát triển doanh nghiệp
+5-33,5,33,Tự nhiên và môi trường,Tự nhiên,Tài nguyên thiên nhiên
+5-34,5,34,Tự nhiên và môi trường,Tự nhiên,Địa hình địa mạo
+5-35,5,35,Tự nhiên và môi trường,Tự nhiên,Hiện tượng tự nhiên và quy luật tự nhiên
+5-36,5,36,Tự nhiên và môi trường,Tự nhiên,Động thực vật
+5-37,5,37,Tự nhiên và môi trường,Môi trường,Cân bằng sinh thái
+5-38,5,38,Tự nhiên và môi trường,Môi trường,Môi trường đô thị và nông thôn
+5-39,5,39,Tự nhiên và môi trường,Môi trường,Bảo vệ môi trường
+5-40,5,40,Khoa học và công nghệ,Phát triển khoa học công nghệ,Giới thiệu và ứng dụng sản phẩm
+5-41,5,41,Khoa học và công nghệ,Kiến thức khoa học,Kiến thức phổ thông khoa học
+5-42,5,42,Khoa học và công nghệ,Kiến thức khoa học,Thành tựu nghiên cứu khoa học
+5-43,5,43,Xã hội đương đại,Tổng quan,Phân chia hành chính
+5-44,5,44,Xã hội đương đại,Tổng quan,Tình hình dân số
+5-45,5,45,Xã hội đương đại,Tổng quan,Đặc điểm thời đại
+5-46,5,46,Xã hội đương đại,Hiện tượng kinh tế,Thương mại xuất nhập khẩu
+5-47,5,47,Xã hội đương đại,Hiện tượng kinh tế,Hoạt động thương mại
+5-48,5,48,Xã hội đương đại,Hiện tượng kinh tế,Phát triển kinh tế
+5-49,5,49,Xã hội đương đại,Hiện tượng xã hội,Phát triển dân sinh
+5-50,5,50,Xã hội đương đại,Hiện tượng xã hội,Sự vật mới nổi
+5-51,5,51,Xã hội đương đại,Hiện tượng xã hội,Quan niệm xã hội
+5-52,5,52,Xã hội đương đại,Hiện tượng xã hội,Cơ sở hạ tầng
+5-53,5,53,Xã hội đương đại,Văn hóa nghệ thuật,Hình thức văn nghệ
+5-54,5,54,Xã hội đương đại,Văn hóa nghệ thuật,Kiến thức văn nghệ
+5-55,5,55,Xã hội đương đại,Văn hóa nghệ thuật,Tác giả và tác phẩm
+5-56,5,56,Xã hội đương đại,Văn hóa nghệ thuật,Hoạt động văn nghệ
+5-57,5,57,Xã hội đương đại,Thể thao,Môn thể thao
+5-58,5,58,Xã hội đương đại,Thể thao,Sự kiện thể thao
+5-59,5,59,Xã hội đương đại,Thể thao,Nhân vật và câu chuyện thể thao
+5-60,5,60,Xã hội đương đại,Giao lưu quốc tế,"Câu chuyện giao lưu, thăm viếng hữu nghị, hợp tác quốc tế"
+5-61,5,61,Xã hội đương đại,Ngôn ngữ chữ viết,"Tục ngữ, thành ngữ, danh ngôn"
+5-62,5,62,Văn hóa và truyền thống,Ngôn ngữ chữ viết,Hiện tượng ngôn ngữ
+5-63,5,63,Văn hóa và truyền thống,Phong tục truyền thống,Ẩm thực địa phương và sự khác biệt vùng miền
+5-64,5,64,Văn hóa và truyền thống,Phong tục truyền thống,Lễ hội và phong tục truyền thống
+5-65,5,65,Văn hóa và truyền thống,Phong tục truyền thống,Truyền thuyết dân gian
+5-66,5,66,Văn hóa và truyền thống,Phong tục truyền thống,Đời sống thời cổ
+5-67,5,67,Văn hóa và truyền thống,Di sản văn hóa,"Danh lam thắng cảnh, nhà ở truyền thống, kiến trúc"
+5-68,5,68,Văn hóa và truyền thống,Tư tưởng và nghệ thuật truyền thống,Tư tưởng triết học
+5-69,5,69,Văn hóa và truyền thống,Tư tưởng và nghệ thuật truyền thống,Nghệ thuật truyền thống
+5-70,5,70,Văn hóa và truyền thống,Lịch sử,"Nhân vật lịch sử, sự kiện lịch sử"
+5-71,5,71,Văn hóa và truyền thống,Khoa học cổ đại,Thành tựu khoa học cổ đại
+5-72,5,72,Văn hóa và truyền thống,Khoa học cổ đại,"Quan niệm khoa học cổ xưa, sự nghiệp của các nhà khoa học cổ"
+6-1,6,1,Đời sống hằng ngày,Công việc thường ngày,Thực hiện thủ tục
+6-2,6,2,Đời sống hằng ngày,Công việc thường ngày,Tìm kiếm sự trợ giúp khi gặp khó khăn
+6-3,6,3,Đời sống hằng ngày,Ăn uống,Trải nghiệm ẩm thực
+6-4,6,4,Đời sống hằng ngày,Ăn uống,An toàn thực phẩm
+6-5,6,5,Đời sống hằng ngày,Giao thông đi lại,Trải nghiệm đi lại
+6-6,6,6,Đời sống hằng ngày,Giao thông đi lại,Chiến lược và kinh nghiệm đi lại
+6-7,6,7,Đời sống hằng ngày,Y tế sức khỏe,Khám chữa bệnh
+6-8,6,8,Đời sống hằng ngày,Y tế sức khỏe,Lối sống lành mạnh
+6-9,6,9,Đời sống hằng ngày,Cộng đồng,Tình hình cư trú
+6-10,6,10,Đời sống hằng ngày,Cộng đồng,Dịch vụ cộng đồng
+6-11,6,11,Đời sống hằng ngày,Cộng đồng,Quản lý cộng đồng
+6-12,6,12,Đời sống hằng ngày,Cộng đồng,Đời sống cư dân
+6-13,6,13,Giáo dục,Học tập,Tình hình khóa học
+6-14,6,14,Giáo dục,Học tập,Tình hình giảng dạy
+6-15,6,15,Giáo dục,Học tập,Người học
+6-16,6,16,Giáo dục,Đời sống trường học,Hoạt động trong khuôn viên
+6-17,6,17,Giáo dục,Đời sống trường học,Tình hình nhà trường
+6-18,6,18,Giáo dục,Vấn đề giáo dục,"Sự kiện giáo dục, quan niệm giáo dục, vấn đề giáo dục nổi bật"
+6-19,6,19,Đời sống nghề nghiệp,Nghề nghiệp và kinh nghiệm,Nội dung công việc
+6-20,6,20,Đời sống nghề nghiệp,Nghề nghiệp và kinh nghiệm,Định vị nghề nghiệp
+6-21,6,21,Đời sống nghề nghiệp,Quản lý và điều hành,Quản lý nhân sự
+6-22,6,22,Đời sống nghề nghiệp,Quản lý và điều hành,Phát triển doanh nghiệp
+6-23,6,23,Tự nhiên và môi trường,Tự nhiên,Hiện tượng tự nhiên
+6-24,6,24,Tự nhiên và môi trường,Tự nhiên,Động thực vật
+6-25,6,25,Tự nhiên và môi trường,Tự nhiên,Tài nguyên thiên nhiên
+6-26,6,26,Tự nhiên và môi trường,Tự nhiên,Quy luật tự nhiên
+6-27,6,27,Tự nhiên và môi trường,Môi trường,Thiên tai
+6-28,6,28,Tự nhiên và môi trường,Môi trường,Khai thác năng lượng
+6-29,6,29,Tự nhiên và môi trường,Môi trường,Bảo vệ môi trường
+6-30,6,30,Tự nhiên và môi trường,Môi trường,Cơ sở hạ tầng
+6-31,6,31,Khoa học và công nghệ,Phát triển khoa học công nghệ,Sản phẩm công nghệ phục vụ đời sống
+6-32,6,32,Khoa học và công nghệ,Phát triển khoa học công nghệ,Sản phẩm công nghệ thông tin
+6-33,6,33,Khoa học và công nghệ,Kiến thức khoa học,Kiến thức khoa học phổ thông
+6-34,6,34,Khoa học và công nghệ,Kiến thức khoa học,Thành tựu nghiên cứu khoa học
+6-35,6,35,Khoa học và công nghệ,Kiến thức khoa học,Hoạt động phổ biến khoa học
+6-36,6,36,Xã hội đương đại,Hiện tượng kinh tế,Hoạt động thương mại
+6-37,6,37,Xã hội đương đại,Hiện tượng kinh tế,Đầu tư và tài chính
+6-38,6,38,Xã hội đương đại,Hiện tượng kinh tế,Tài chính và tiêu dùng
+6-39,6,39,Xã hội đương đại,Hiện tượng kinh tế,Phát triển kinh tế
+6-40,6,40,Xã hội đương đại,Hiện tượng xã hội,Phát triển dân sinh
+6-41,6,41,Xã hội đương đại,Hiện tượng xã hội,Sự vật mới nổi
+6-42,6,42,Xã hội đương đại,Hiện tượng xã hội,Trào lưu và xu hướng xã hội
+6-43,6,43,Xã hội đương đại,Hiện tượng xã hội,Hoạt động công ích
+6-44,6,44,Xã hội đương đại,Hiện tượng xã hội,Điểm nóng thời sự
+6-45,6,45,Xã hội đương đại,Văn hóa nghệ thuật,Hình thức văn nghệ
+6-46,6,46,Xã hội đương đại,Văn hóa nghệ thuật,Kiến thức văn nghệ
+6-47,6,47,Xã hội đương đại,Văn hóa nghệ thuật,Tác giả và tác phẩm
+6-48,6,48,Xã hội đương đại,Văn hóa nghệ thuật,Hoạt động văn nghệ
+6-49,6,49,Xã hội đương đại,Thể thao,Môn thể thao
+6-50,6,50,Xã hội đương đại,Thể thao,Sự kiện thể thao
+6-51,6,51,Xã hội đương đại,Thể thao,Nhân vật và câu chuyện thể thao
+6-52,6,52,Xã hội đương đại,Giao lưu quốc tế,Hoạt động quốc tế
+6-53,6,53,Xã hội đương đại,Giao lưu quốc tế,Sự kiện giao lưu hữu nghị
+6-54,6,54,Văn hóa và truyền thống,Ngôn ngữ chữ viết,Thơ cổ
+6-55,6,55,Văn hóa và truyền thống,Ngôn ngữ chữ viết,"Thành ngữ, tục ngữ, phương ngữ"
+6-56,6,56,Văn hóa và truyền thống,Phong tục truyền thống,Lễ hội và phong tục
+6-57,6,57,Văn hóa và truyền thống,Phong tục truyền thống,Truyền thuyết dân gian
+6-58,6,58,Văn hóa và truyền thống,Phong tục truyền thống,Đời sống thời cổ
+6-59,6,59,Văn hóa và truyền thống,Di sản văn hóa,"Danh lam thắng cảnh, nhà ở truyền thống, kiến trúc"
+6-60,6,60,Văn hóa và truyền thống,Tư tưởng và nghệ thuật truyền thống,Tư tưởng triết học
+6-61,6,61,Văn hóa và truyền thống,Tư tưởng và nghệ thuật truyền thống,Nghệ thuật truyền thống
+6-62,6,62,Văn hóa và truyền thống,Tư tưởng và nghệ thuật truyền thống,Biểu tượng thẩm mỹ truyền thống
+6-63,6,63,Văn hóa và truyền thống,Lịch sử,"Nhân vật lịch sử, hiện vật và sự kiện"
+6-64,6,64,Văn hóa và truyền thống,Lịch sử,Khái quát các triều đại
+6-65,6,65,Văn hóa và truyền thống,Khoa học cổ đại,Thành tựu khoa học cổ đại
+6-66,6,66,Văn hóa và truyền thống,Khoa học cổ đại,Quan niệm khoa học cổ xưa và sự nghiệp các nhà khoa học cổ

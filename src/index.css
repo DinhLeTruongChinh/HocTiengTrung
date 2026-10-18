@@ -1,0 +1,8 @@
+@tailwind base; @tailwind components; @tailwind utilities;
+body { @apply font-sans text-ink min-h-screen; background: linear-gradient(160deg,#DCEEFB 0%,#F3EAF8 55%,#FCE4EC 100%) fixed; }
+@layer components {
+  .card { @apply bg-white/90 rounded-3xl border border-rose-100 shadow-sm; }
+  .btn { @apply inline-flex items-center justify-center gap-2 rounded-full px-5 py-2.5 font-semibold transition active:scale-95 disabled:opacity-50; }
+  .btn-primary { @apply btn bg-rose-500 text-white hover:bg-rose-600 shadow; }
+  .btn-ghost { @apply btn bg-white text-rose-500 border border-rose-100 hover:bg-rose-50; }
+}
