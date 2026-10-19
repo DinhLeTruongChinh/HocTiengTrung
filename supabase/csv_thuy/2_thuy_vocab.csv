@@ -1,0 +1,396 @@
+id,lesson_id,position,hanzi,pinyin,pos,meaning
+bai-01-02-1,bai-01-02,1,你,nǐ,Đại từ = Pron,Bạn
+bai-01-02-2,bai-01-02,2,好,hǎo,Tính từ = Adj,"Tốt; đẹp,.."
+bai-01-02-3,bai-01-02,3,你好,nǐ hǎo,,Xin chào
+bai-01-02-4,bai-01-02,4,您,nín,Đại từ = Pron,Ngài; ông (kính trọng)
+bai-01-02-5,bai-01-02,5,您好,nín hǎo,,"Chào ngài (lễ phép, kính trọng)"
+bai-01-02-6,bai-01-02,6,们,men,Hậu tố số nhiều,"Các; bọn,..."
+bai-01-02-7,bai-01-02,7,对不起,duìbuqǐ,Động từ = V,Xin lỗi
+bai-01-02-8,bai-01-02,8,不,bù,Phó từ = Adv,Không
+bai-01-02-9,bai-01-02,9,没关系,méiguānxi,Câu,không sao; đừng ngại; không có gì
+bai-01-02-10,bai-01-02,10,谢谢,xièxie,Động từ = V,cám ơn
+bai-01-02-11,bai-01-02,11,不客气,bù kèqi,Cụm từ,không có gì; đừng khách sáo
+bai-01-02-12,bai-01-02,12,同学,tóngxué,Danh từ = N,Bạn học
+bai-01-02-13,bai-01-02,13,老师,lǎoshī,Danh từ = N,Giáo viên
+bai-01-02-14,bai-01-02,14,大家,dàjiā,Đại từ = Pron,Mọi người; cả nhà
+bai-01-02-15,bai-01-02,15,你们,nǐmen,Đại từ = Pron,Mấy người; các cậu; các bạn; các ông; các bà; anh chị; các anh; các chị; tụi bây; bây; chúng mi
+bai-01-02-16,bai-01-02,16,再见,zàijiàn,Động từ = V,Tạm biệt
+bai-01-02-17,bai-01-02,17,上课,shàngkè,Động từ = V,Lên lớp; vào học; đi học; đến lớp
+bai-01-02-18,bai-01-02,18,下课,xià kè,Động từ = V,Tan học; hết giờ học
+bai-01-02-19,bai-01-02,19,现在休息,xiànzài xiūxi,,Bây giờ nghĩ ngơi
+bai-01-02-20,bai-01-02,20,跟我读,gēn wǒ dú,,Cùng tôi đọc
+bai-01-02-21,bai-01-02,21,请大家声读,qǐng dàjiā shēng dú,,Mời mời người đọc
+bai-01-02-22,bai-01-02,22,再读一遍,zài dú yībiàn,,Đọc lại lần nữa
+bai-01-02-23,bai-01-02,23,一起读,yīqǐ dú,,Cùng nhau đọc
+bai-01-02-24,bai-01-02,24,等我一下,děng wǒ yīxià,,Đợi tôi 1 chút
+bai-01-02-25,bai-01-02,25,我想去卫生间,wǒ xiǎng qù wèishēngjiān,,Tôi muốn đi vệ sinh
+bai-01-02-26,bai-01-02,26,请你,qǐng nǐ,,Mời bạn
+bai-01-02-27,bai-01-02,27,请您,qǐng nín,,Mời ngài
+bai-01-02-28,bai-01-02,28,我,wǒ,đại từ = Pron,Tôi; mình
+bai-01-02-29,bai-01-02,29,是,shì,động từ = V,Là
+bai-01-02-30,bai-01-02,30,学生,xuéshēng,danh từ = N,Học sinh
+bai-01-02-31,bai-01-02,31,她,tā,đại từ = Pron,Cô/dì/ thím/ mợ/ bà ấy; chị ấy;...
+bai-01-02-32,bai-01-02,32,他,tā,đại từ = Pron,Chú/bác/cậu/ ông ấy; anh ấy;... PHỦ ĐỊNH:
+bai-01-02-33,bai-01-02,33,请,qǐng,Động từ = V,Xin; xin hãy; xin nhờ; yêu cầu; đề nghị; thỉnh cầu
+bai-01-02-34,bai-01-02,34,问,wèn,Động từ = V,Hỏi
+bai-01-02-35,bai-01-02,35,叫,jiào,Động từ = V,Gọi; kêu; tên là; gọi là
+bai-01-02-36,bai-01-02,36,名字,míngzì,Danh từ = N,Tên
+bai-01-02-37,bai-01-02,37,不是,bùshì,Cụm từ,Không phải
+bai-01-02-38,bai-01-02,38,小红,xiǎo Hóng,,Tiểu
+bai-01-02-39,bai-01-02,39,小雨,xiǎo Yǔ,,Tiểu Vũ
+bai-01-02-40,bai-01-02,40,朋友,péngyǒu,,Bạn bè。
+bai-01-02-41,bai-01-02,41,很,hěn,Phó = Adv,Rất
+bai-01-02-42,bai-01-02,42,也,yě,Phó = Adv,Cũng
+bai-03-04-1,bai-03-04,1,人,rén,Danh từ = N,Con người
+bai-03-04-2,bai-03-04,2,比如,bǐrú,,:Ví dụ:
+bai-03-04-3,bai-03-04,3,华人,Huárén,Danh từ = N,Người Hoa
+bai-03-04-4,bai-03-04,4,德国,Déguó,,Nước Đức
+bai-03-04-5,bai-03-04,5,语,yǔ,Danh từ = N,Tiếng
+bai-03-04-6,bai-03-04,6,字,zì,Danh từ = N,Chữ
+bai-03-04-7,bai-03-04,7,妈妈,māma,N,Mẹ
+bai-03-04-8,bai-03-04,8,爸爸,bàba,N,Ba
+bai-03-04-9,bai-03-04,9,姐姐,jiějie,N,Chị
+bai-03-04-10,bai-03-04,10,妹妹,mèimei,N,Em gái
+bai-03-04-11,bai-03-04,11,哥哥,gēge,N,Anh trai
+bai-03-04-12,bai-03-04,12,弟弟,dìdi,N,Em trai
+bai-03-04-13,bai-03-04,13,一起,yīqǐ,Phó từ = Adv,Cùng
+bai-03-04-14,bai-03-04,14,爷爷,yéye,N,Ông nội
+bai-03-04-15,bai-03-04,15,奶奶,nǎinai,N,Bà nội
+bai-03-04-16,bai-03-04,16,外公,wàigōng,N,Ông ngoại
+bai-03-04-17,bai-03-04,17,外婆,wàipó,N,Bà ngoại
+bai-03-04-18,bai-03-04,18,老婆,lǎopó,N,Vợ
+bai-03-04-19,bai-03-04,19,老公,lǎogōng,N,Chồng
+bai-03-04-20,bai-03-04,20,漂亮,piàoliang,,Xinh đẹp
+bai-03-04-21,bai-03-04,21,帅气,shuàiqì,,Đẹp trai; lịch lãm
+bai-03-04-22,bai-03-04,22,美丽,měilì,,Mỹ lệ; xinh đẹp
+bai-03-04-23,bai-03-04,23,聪明,cōngmíng,,Thông minh
+bai-03-04-24,bai-03-04,24,很帅,hěn shuài,,Rất đẹp trai
+bai-03-04-25,bai-03-04,25,大,dà,,Lớn
+bai-03-04-26,bai-03-04,26,小,xiǎo,,Nhỏ
+bai-03-04-27,bai-03-04,27,好,hǎo,,Tốt
+bai-03-04-28,bai-03-04,28,坏,huài,,Xấu
+bai-03-04-29,bai-03-04,29,新,xīn,,Mới
+bai-03-04-30,bai-03-04,30,旧,jiù,,Cũ
+bai-03-04-31,bai-03-04,31,红,hóng,,Hồng
+bai-03-04-32,bai-03-04,32,绿,lǜ,,Xanh
+bai-03-04-33,bai-03-04,33,热,rè,,Nóng
+bai-03-04-34,bai-03-04,34,冷,lěng,,Lạnh
+bai-03-04-35,bai-03-04,35,水,shuǐ,,Nước
+bai-03-04-36,bai-03-04,36,茶,chá,,Trà
+bai-03-04-37,bai-03-04,37,衣服,yīfu,,Quần áo
+bai-03-04-38,bai-03-04,38,谁,shuí,Đại từ = Pron,Ai
+bai-03-04-39,bai-03-04,39,女,nǚ,,Nữ
+bai-03-04-40,bai-03-04,40,男,nán,,Nam
+bai-03-04-41,bai-03-04,41,泰国,tàiguó,,Thái Lan
+bai-03-04-42,bai-03-04,42,还,hái,Phó từ = Adv,Vẫn
+bai-03-04-43,bai-03-04,43,忙,máng,Tính từ = Adj,Bận
+bai-03-04-44,bai-03-04,44,想,xiǎng,Động từ = V,Muốn
+bai-03-04-45,bai-03-04,45,这,zhè,Đại từ = pron,"Đây, này"
+bai-03-04-46,bai-03-04,46,做,zuò,Động từ = V,Làm
+bai-03-04-47,bai-03-04,47,有,yǒu,Động từ = V,Có
+bai-03-04-48,bai-03-04,48,个,gè,Lượng từ,Cái; con
+bai-03-04-49,bai-03-04,49,教室,jiàoshì,Danh từ = N,Phòng học
+bai-03-04-50,bai-03-04,50,公司,gōngsī,Danh từ = N,Công ty
+bai-03-04-51,bai-03-04,51,工人,gōngrén,Danh từ = N,Công nhân
+bai-03-04-52,bai-03-04,52,没有,méiyǒu,Động từ = V,Không có
+bai-03-04-53,bai-03-04,53,喜欢,xǐhuan,Động từ = V,Thích
+bai-03-04-54,bai-03-04,54,钱,qián,Danh từ =N,Tiền
+bai-03-04-55,bai-03-04,55,女儿,nǚ'ér,Danh từ = N,Con gái
+bai-03-04-56,bai-03-04,56,几,jǐ,Đại từ = Pron,"Mấy, bao nhiêu"
+bai-03-04-57,bai-03-04,57,岁,suì,Lượng từ,Tuổi
+bai-03-04-58,bai-03-04,58,了,le,Trợ từ,Rồi
+bai-03-04-59,bai-03-04,59,今年,jīnnián,Danh từ = N,Năm nay
+bai-03-04-60,bai-03-04,60,您,nín,Đại từ = Pron,Ngài; ông
+bai-03-04-61,bai-03-04,61,多,duō,Tính từ = Adj,Bao nhiêu; mấy; nhiều
+bai-03-04-62,bai-03-04,62,年纪,niánjì,Danh từ = N,Tuổi tác
+bai-03-04-63,bai-03-04,63,李,lǐ,Danh từ = N,Lý (Họ)
+bai-03-04-64,bai-03-04,64,家,jiā,Danh từ = N,Nhà
+bai-03-04-65,bai-03-04,65,狗,gǒu,Danh từ = N,Chó
+bai-03-04-66,bai-03-04,66,和,hé,Liên từ,Và
+bai-03-04-67,bai-03-04,67,两,liǎng,,"Trước lượng từ, trước đơn vị tiền, đơn vị đo lường, số lượng không xác định hoặc kết hợp với số"
+bai-03-04-68,bai-03-04,68,上课,shàngkè,Động từ = V,Lên lớp; vào học; đi học; đến lớp
+bai-03-04-69,bai-03-04,69,下课,xià kè,Động từ = V,Tan học; hết giờ học
+bai-03-04-70,bai-03-04,70,现在休息,xiànzài xiūxi,,Bây giờ nghĩ ngơi
+bai-03-04-71,bai-03-04,71,跟我读,gēn wǒ dú,,Cùng tôi đọc
+bai-03-04-72,bai-03-04,72,请大家声读,qǐng dàjiā shēng dú,,Mời mời người đọc
+bai-03-04-73,bai-03-04,73,再读一遍,zài dú yībiàn,,Đọc lại lần nữa
+bai-03-04-74,bai-03-04,74,一起读,yīqǐ dú,,Cùng nhau đọc
+bai-03-04-75,bai-03-04,75,等我一下,děng wǒ yīxià,,Đợi tôi 1 chút
+bai-03-04-76,bai-03-04,76,我想去卫生间,wǒ xiǎng qù wèishēngjiān,,Tôi muốn đi vệ sinh
+bai-03-04-77,bai-03-04,77,请你,qǐng nǐ,,Mời bạn
+bai-03-04-78,bai-03-04,78,请您,qǐng nín,,Mời ngài
+bai-03-04-79,bai-03-04,79,杨同乐,Yángtónglè,,Dương Đồng Lạc
+bai-03-04-80,bai-03-04,80,王一雪,Wángyīxuě,,Vương Nhất Tuyết
+bai-05-06-1,bai-05-06,1,请问,qǐngwèn,,Xin hỏi
+bai-05-06-2,bai-05-06,2,年,nián,,Năm
+bai-05-06-3,bai-05-06,3,月,yuè,,Tháng
+bai-05-06-4,bai-05-06,4,天,tiān,,Ngày
+bai-05-06-5,bai-05-06,5,星期,Xīngqi,,Tuần lễ
+bai-05-06-6,bai-05-06,6,零,líng,,0
+bai-05-06-7,bai-05-06,7,哪一年,nǎ yī nián,,Năm nào
+bai-05-06-8,bai-05-06,8,出生,chūshēng,,Sinh ra đời
+bai-05-06-9,bai-05-06,9,会,huì,Động từ = V,Biết
+bai-05-06-10,bai-05-06,10,做,zuò,Động từ = V,Làm
+bai-05-06-11,bai-05-06,11,米饭,mǐfàn,,Cơm
+bai-05-06-12,bai-05-06,12,蛋糕,dàngāo,N,Bánh kem
+bai-05-06-13,bai-05-06,13,衣服,yīfu,N,Quần áo
+bai-05-06-14,bai-05-06,14,菜,cài,N,Món ăn
+bai-05-06-15,bai-05-06,15,作业,zuòyè,N,Bài tập
+bai-05-06-16,bai-05-06,16,一些,yīxiē,Lượng từ,1 vài; 1 số; 1 phần
+bai-05-06-17,bai-05-06,17,饺子,jiǎozi,Danh từ = N,Bánh chẻo; sủi cảo
+bai-05-06-18,bai-05-06,18,生词,shēngcí,N,Từ mới
+bai-05-06-19,bai-05-06,19,下班,xiàbān,N,Tan làm
+bai-05-06-20,bai-05-06,20,新,xīn,Adj,Mới
+bai-05-06-21,bai-05-06,21,电脑,diànnǎo,N,Máy tính
+bai-05-06-22,bai-05-06,22,真好,zhēn hǎo,,Thật tốt/tuyệt
+bai-05-06-23,bai-05-06,23,它,tā,,"Nó; cái đó; điều đó; việc ấy (đại từ chỉ sự vật, con vật)"
+bai-05-06-24,bai-05-06,24,台,tái,,"Lượng từ dùng cho đồ điện tử, đồ gia dụng"
+bai-05-06-25,bai-05-06,25,手机,shǒujī,N,Điện thoại
+bai-05-06-26,bai-05-06,26,号,hào,N,Số
+bai-05-06-27,bai-05-06,27,超市,chāoshì,N,Siêu thị
+bai-05-06-28,bai-05-06,28,买,mǎi,V,Mua
+bai-05-06-29,bai-05-06,29,东西,dōngxī,N,Đồ nói chung
+bai-05-06-30,bai-05-06,30,去,qù,V,Đi + Nơi chốn (N) + Hành động (V)
+bai-05-06-31,bai-05-06,31,些,xiē,Lượng từ bất định,Những; một ít; một vài (Chỉ 1 lượng ít nhưng không cụ thể)
+bai-05-06-32,bai-05-06,32,想,xiǎng,V,Muốn + V
+bai-05-06-33,bai-05-06,33,跟,gēn,,Cùng
+bai-05-06-34,bai-05-06,34,那,nà,,Vậy
+bai-05-06-35,bai-05-06,35,吧,ba,,Nhé; nhớ...
+bai-05-06-36,bai-05-06,36,上海青,shànghǎi qīng,,Cải thìa/ cải chíp
+bai-05-06-37,bai-05-06,37,大白菜,dà báicài,,Cải thảo
+bai-05-06-38,bai-05-06,38,空心菜,kōngxīncài,,Rau muống
+bai-05-06-39,bai-05-06,39,番茄,fānqié,,Cà chua
+bai-05-06-40,bai-05-06,40,土豆,tǔdòu,,Khoai tây
+bai-05-06-41,bai-05-06,41,胡萝卜,húluóbo,,Cà rốt
+bai-05-06-42,bai-05-06,42,苹果,píngguǒ,,Táo
+bai-05-06-43,bai-05-06,43,香蕉,xiāngjiāo,,Chuối
+bai-05-06-44,bai-05-06,44,西瓜,xīguā,,Dưa hấu
+bai-05-06-45,bai-05-06,45,葡萄,pútáo,,Nho
+bai-05-06-46,bai-05-06,46,芒果,mángguǒ,,Xoài
+bai-05-06-47,bai-05-06,47,草莓,cǎoméi,,Dâu tây
+bai-05-06-48,bai-05-06,48,复合果汁,fùhé guǒzhī,,Nước ép hỗn hợp
+bai-05-06-49,bai-05-06,49,纯果汁,chún guǒzhī,,Nước ép nguyên chất
+bai-05-06-50,bai-05-06,50,速冻包子,sùdòng bāozi,,Bánh bao đông lạnh
+bai-05-06-51,bai-05-06,51,馄饨,húntun,,Hoành thánh đông lạnh
+bai-05-06-52,bai-05-06,52,火锅丸子,huǒguō wánzi,,"Viên thả lẩu (cá viên, bò viên...)"
+bai-05-06-53,bai-05-06,53,薯条,shǔtiáo,,Khoai tây chiên đông lạnh
+bai-05-06-54,bai-05-06,54,本,běn,,quyển
+bai-05-06-55,bai-05-06,55,个,gè,,"con, cái"
+bai-05-06-56,bai-05-06,56,这,zhè,,"Đây, này"
+bai-05-06-57,bai-05-06,57,书,shū,,Sách
+bai-05-06-58,bai-05-06,58,英国,yīngguó,N,Nước Anh
+bai-05-06-59,bai-05-06,59,英语,yīngyǔ,N,Tiếng Anh
+bai-05-06-60,bai-05-06,60,日本,rìběn,N,Nước Nhật
+bai-05-06-61,bai-05-06,61,日语,rìyǔ,N,Tiếng Nhật
+bai-05-06-62,bai-05-06,62,说,shuō,V,Nói
+bai-05-06-63,bai-05-06,63,写,xiě,V,Viết
+bai-05-06-64,bai-05-06,64,读,dú,V,Đọc
+bai-05-06-65,bai-05-06,65,念,niàn,V,Đọc huì
+bai-05-06-66,bai-05-06,66,中国,zhōngguó,N,Trung Quốc
+bai-05-06-67,bai-05-06,67,汉语,hànyǔ,N,Tiếng Trung
+bai-05-06-68,bai-05-06,68,韩国,hánguó,N,Hàn Quốc
+bai-05-06-69,bai-05-06,69,韩语,hányǔ,N,Tiếng Hàn
+bai-05-06-70,bai-05-06,70,看,kàn,V,Đọc
+bai-05-06-71,bai-05-06,71,很,hěn,Phó,Rất
+bai-05-06-72,bai-05-06,72,好,hǎo,Phó/Adj,Tốt
+bai-05-06-73,bai-05-06,73,好吃,hǎo chī,,Rất ngon
+bai-05-06-74,bai-05-06,74,好喝,hǎo hē,Adj,Uống ngon
+bai-05-06-75,bai-05-06,75,好渴,hǎo kě,Adj,Rất khát
+bai-05-06-76,bai-05-06,76,好的,hǎo de,Adj,Được
+bai-05-06-77,bai-05-06,77,好漂亮,hǎo piàoliang,Adj,Rất xinh đẹp
+bai-05-06-78,bai-05-06,78,好帅,hǎo shuài,Adj,Rất đẹp trai
+bai-05-06-79,bai-05-06,79,字,zì,N,Chữ
+bai-07-08-1,bai-07-08,1,零,líng,,Số
+bai-07-08-2,bai-07-08,2,哪一年,nǎ yī nián,,Năm nào
+bai-07-08-3,bai-07-08,3,去,qù,V,Đi
+bai-07-08-4,bai-07-08,4,明天,míngtiān,N,Ngày mai
+bai-07-08-5,bai-07-08,5,饭馆儿,fànguǎn er,N,Quán ăn
+bai-07-08-6,bai-07-08,6,昨天,zuótiān,N,Hôm qua
+bai-07-08-7,bai-07-08,7,学校,xuéxiào,N,Trường học
+bai-07-08-8,bai-07-08,8,公司,gōngsī,N,Công ty
+bai-07-08-9,bai-07-08,9,学习,xuéxí,V/N,Học tập
+bai-07-08-10,bai-07-08,10,杯子,bēizi,N,Cái ly
+bai-07-08-11,bai-07-08,11,多,duō,,Nhiều
+bai-07-08-12,bai-07-08,12,少,shǎo,,"Thiếu, mất, bớt"
+bai-07-08-13,bai-07-08,13,多少,duōshǎo,,"Bao nhiêu, mấy"
+bai-07-08-14,bai-07-08,14,几,jǐ,,"mấy, bao nhiêu"
+bai-07-08-15,bai-07-08,15,绿茶,lǜchá,N,Trà xanh
+bai-09-10-1,bai-09-10,1,手机,shǒujī,N,điện thoại
+bai-09-10-2,bai-09-10,2,椅子,yǐzi,N,Ghế
+bai-09-10-3,bai-09-10,3,见,jiàn,V,gặp
+bai-09-10-4,bai-09-10,4,两,liǎng,,"Trước lượng từ, trước đơn vị tiền, đơn vị đo lường, số lượng không xác định hoặc kết hợp với số"
+bai-09-10-5,bai-09-10,5,点,diǎn,,Giờ
+bai-09-10-6,bai-09-10,6,分,fēn,,Phút
+bai-09-10-7,bai-09-10,7,秒,miǎo,,Giây
+bai-09-10-8,bai-09-10,8,钟,zhōng,,chỉ đúng mốc thời gian muốn nói.
+bai-09-10-9,bai-09-10,9,有,yǒu,,Có
+bai-09-10-10,bai-09-10,10,买,mǎi,V,Mua
+bai-09-10-11,bai-09-10,11,零嘴,língzuǐ,N,Quà vặt
+bai-09-10-12,bai-09-10,12,习惯,xíguàn,"N,V",Thói quen
+bai-09-10-13,bai-09-10,13,比如,bǐrú,V,Ví dụ
+bai-09-10-14,bai-09-10,14,东西,dōngxī,,đồ nói chung.
+bai-09-10-15,bai-09-10,15,唱歌,chànggē,V,Hát
+bai-09-10-16,bai-09-10,16,白天,Báitiān,N,Ban ngày
+bai-09-10-17,bai-09-10,17,边,biān,,"Cạnh, bên, phía"
+bai-09-10-18,bai-09-10,18,孩子,háizi,N,Đứa trẻ
+bai-09-10-19,bai-09-10,19,房间,fángjiān,,Gian phòng
+bai-09-10-20,bai-09-10,20,这边,zhèbiān,Đại từ,"Ở đây, bên/chỗ/phía này"
+bai-09-10-21,bai-09-10,21,这些,zhèxiē,Đại từ,Những ... kia/này; mấy ... kia/này
+bai-09-10-22,bai-09-10,22,的,de,,Mà
+bai-09-10-23,bai-09-10,23,真,zhēn,Adj,Thật; thật sự; đúng sự thật
+bai-09-10-24,bai-09-10,24,真心,zhēnxīn,,Tấm lòng chân thành
+bai-09-10-25,bai-09-10,25,真假,zhēnjiǎ,,Thật giả
+bai-09-10-26,bai-09-10,26,真诚,zhēnchéng,,Chân thành
+bai-09-10-27,bai-09-10,27,真相,zhēnxiàng,,"Sự thật, chân tướng"
+bai-09-10-28,bai-09-10,28,不少,bù shǎo,Adj,nhiều; rất nhiều; không ít
+bai-09-10-29,bai-09-10,29,售货员,shòuhuòyuán,N,Người bán hàng; nhân viên bán hàng
+bai-09-10-30,bai-09-10,30,王一雪,Wángyīxuě,N,Vương Nhất Tuyết
+bai-09-10-31,bai-09-10,31,刘明,Liú míng,N,Lưu Minh
+bai-09-10-32,bai-09-10,32,小雪,Xiǎoxuě,N,"Tiểu Tuyết chuān (V):mặc; mang (giày, tất) nǚháizi (N):Con gái; bé gái; cô gái"
+bai-11-12-1,bai-11-12,1,时候,shíhou,N,Lúc; khi
+bai-11-12-2,bai-11-12,2,饭店,fàndiàn,N,Quán ăn
+bai-11-12-3,bai-11-12,3,知道,zhīdào,V,Biết
+bai-11-12-4,bai-11-12,4,找,zhǎo,V,Tìm
+bai-11-12-5,bai-11-12,5,开车,kāichē,V,Chạy xe
+bai-11-12-6,bai-11-12,6,车,chē,N,Xe
+bai-11-12-7,bai-11-12,7,什么时候,Shénme shíhòu,,Khi nào
+bai-11-12-8,bai-11-12,8,正在,zhèngzài,Adv: Phó từ,Đang
+bai-11-12-9,bai-11-12,9,王一飞,Wángyīfēi,,Vương
+bai-11-12-10,bai-11-12,10,李文,Lǐ wén,,Lí Văn dào
+bai-11-12-11,bai-11-12,11,开门,kāimén,V,Mở cửa
+bai-11-12-12,bai-11-12,12,音乐,Yīnyuè,N,Âm nhạc
+bai-11-12-13,bai-11-12,13,帮,bāng,V,Giúp
+bai-11-12-14,bai-11-12,14,作业,zuòyè,N,Bài tập
+bai-11-12-15,bai-11-12,15,讨厌,tǎoyàn,,Đáng ghét
+bai-11-12-16,bai-11-12,16,贵,guì,,Mắc
+bai-11-12-17,bai-11-12,17,爱,ài,,Yêu
+bai-11-12-18,bai-11-12,18,衣服,yīfu,,Quần áo
+bai-11-12-19,bai-11-12,19,热,rè,,Nóng
+bai-11-12-20,bai-11-12,20,不,bù,,phủ định hiện tại / tương lai / thói quen
+bai-11-12-21,bai-11-12,21,没,méi,,phủ định quá khứ / chưa xảy ra
+bai-11-12-22,bai-11-12,22,读,kè,N,môn; tiết học; giờ học
+bai-11-12-23,bai-11-12,23,练习,liànxí,"V, N",Luyện tập
+bai-11-12-24,bai-11-12,24,刘明,Liú míng,,Lưu
+bai-11-12-25,bai-11-12,25,起床,qǐchuáng,V,"Thức dậy, ngủ dậy"
+bai-11-12-26,bai-11-12,26,睡,shuì,V,Ngủ
+bai-11-12-27,bai-11-12,27,对我说,Duì wǒ shuō,,Nói/ bảo với tôi
+bai-11-12-28,bai-11-12,28,话,huà,N,"lời nói, câu chuyện"
+bai-13-14-15-1,bai-13-14-15,1,再,zài,Phó từ,"Lại, nữa"
+bai-13-14-15-2,bai-13-14-15,2,女士,nǚshì,N,Quý bà; bà; phu nhân
+bai-13-14-15-3,bai-13-14-15,3,面包,miànbāo,N,Bánh mỳ
+bai-13-14-15-4,bai-13-14-15,4,鸡蛋,jīdàn,N,Trứng gà
+bai-13-14-15-5,bai-13-14-15,5,先生,xiānsheng,,Ông; ngài; thầy
+bai-13-14-15-6,bai-13-14-15,6,一半,yībàn,,Phân nửa; một nửa; 1/2
+bai-13-14-15-7,bai-13-14-15,7,说话,shuōhuà,V,"Nói chuyện; trò chuyện,.."
+bai-13-14-15-8,bai-13-14-15,8,级,jí,,Cấp; khối; ban; lớp
+bai-13-14-15-9,bai-13-14-15,9,初级中学,chūjí zhōngxué,,Cấp hai; trung học cơ sở (
+bai-13-14-15-10,bai-13-14-15,10,高级中学,gāojí zhōngxué,,Cấp 3 (
+bai-13-14-15-11,bai-13-14-15,11,楼,lóu,,Lầu
+bai-13-14-15-12,bai-13-14-15,12,菜,cài,,Đồ ăn; món ăn; thức ăn
+bai-13-14-15-13,bai-13-14-15,13,上当,shàngdàng,,bị lừa; mắc lừa; bị đánh lừa; sa vào bẫy; vào tròng; sa bẫy
+bai-13-14-15-14,bai-13-14-15,14,白家月,Bái jiā yuè,,Bạch Gia
+bai-13-14-15-15,bai-13-14-15,15,时间,shíjiān,N,Thời gian
+bai-13-14-15-16,bai-13-14-15,16,过,guò,V,Trôi qua; qua đi; trải qua; ăn; đón...
+bai-13-14-15-17,bai-13-14-15,17,得,dé,,Có; là; được
+bai-13-14-15-18,bai-13-14-15,18,快,kuài,Adj,Nhanh
+bai-13-14-15-19,bai-13-14-15,19,啊,a,,A
+bai-13-14-15-20,bai-13-14-15,20,新年,xīnnián,N,Năm mới
+bai-13-14-15-21,bai-13-14-15,21,就,jiù,Phó từ,Thì
+bai-13-14-15-22,bai-13-14-15,22,要,yào,V,Sắp
+bai-13-14-15-23,bai-13-14-15,23,到,dào,,Đến
+bai-13-14-15-24,bai-13-14-15,24,汽车,qìchē,,Xe
+bai-13-14-15-25,bai-13-14-15,25,别,bié,,Đừng
+bai-13-14-15-26,bai-13-14-15,26,难过,nánguò,,Buồn
+bai-13-14-15-27,bai-13-14-15,27,节日,jiérì,,Ngày lễ
+bai-13-14-15-28,bai-13-14-15,28,跑,pǎo,V,Chạy
+bai-13-14-15-29,bai-13-14-15,29,长,zhǎng,V,Lớn lên
+bai-13-14-15-30,bai-13-14-15,30,笑,xiào,V,Cười
+bai-13-14-15-31,bai-13-14-15,31,起,qǐ,V,Thức
+bai-13-14-15-32,bai-13-14-15,32,日子,rìzi,,Ngày tháng
+bai-13-14-15-33,bai-13-14-15,33,难受,nánshòu,,Khó chịu; đau lòng
+bai-13-14-15-34,bai-13-14-15,34,平淡,píngdàn,Adj,Nhạt nhẽo
+bai-13-14-15-35,bai-13-14-15,35,北京,Běijīng,,Bắc kinh
+bai-13-14-15-36,bai-13-14-15,36,京剧,jīngjù,,Kinh kịch
+bai-13-14-15-37,bai-13-14-15,37,可惜,kěxī,Adj,Đáng tiếc
+bai-13-14-15-38,bai-13-14-15,38,每天,měitiān,N,Mỗi ngày
+bai-13-14-15-39,bai-13-14-15,39,非常,fēicháng,Phó từ,Rất
+bai-13-14-15-40,bai-13-14-15,40,准备,zhǔnbèi,V,Chuẩn bị
+bai-13-14-15-41,bai-13-14-15,41,礼物,lǐwù,N,Quà
+bai-13-14-15-42,bai-13-14-15,42,觉得,juéde,V,Cảm thấy
+bai-13-14-15-43,bai-13-14-15,43,送,sòng,V,Tặng
+bai-13-14-15-44,bai-13-14-15,44,热情,rè qíng,Adj,Nhiệt tình
+bai-13-14-15-45,bai-13-14-15,45,温柔,wēnróu,Adj,Dịu dàng
+bai-13-14-15-46,bai-13-14-15,46,负责,fùzé,Adj,Trách nhiệm
+bai-13-14-15-47,bai-13-14-15,47,后,hòu,N,Sau
+bai-13-14-15-48,bai-13-14-15,48,火车,huǒchē,N,Xe lửa
+bai-13-14-15-49,bai-13-14-15,49,看见,kànjiàn,V,Nhìn thấy
+bai-13-14-15-50,bai-13-14-15,50,车开,chē kāi,,"Lái xe (dùng cho xe hỏa, xe khách,...)"
+hsk2-3-0-1,hsk2-3-0,1,人名,rénmíng,,Tên người
+hsk2-3-0-2,hsk2-3-0,2,白家月,Bái jiā yuè,,Bạch Gia Nguyệt
+hsk2-3-0-3,hsk2-3-0,3,王一飞,Wángyīfēi,,Vương Nhất Phi
+hsk2-3-0-4,hsk2-3-0,4,王一雪,Wángyīxuě,,Vương Nhất Tuyết
+hsk2-3-0-5,hsk2-3-0,5,让,ràng,,Bảo; để cho; khiến cho...
+hsk2-3-0-6,hsk2-3-0,6,束手无策,shùshǒuwúcè,Thành ngữ,hết cách; chịu chết; bó tay bất lực。
+hsk2-3-0-7,hsk2-3-0,7,复杂,fùzá,Adj,Phúc tạp
+hsk2-3-0-8,hsk2-3-0,8,加班,jiābān,V,Tăng ca
+hsk2-3-0-9,hsk2-3-0,9,接,jiē,V,Đón
+hsk2-3-0-10,hsk2-3-0,10,楼,lóu,N,Lầu
+hsk2-3-0-11,hsk2-3-0,11,张总,Zhāng zǒng,,Trương
+hsk2-3-0-12,hsk2-3-0,12,前,qián,N,Trước khi; trước đó
+hsk2-3-0-13,hsk2-3-0,13,院,yuàn,N,Sân
+hsk2-3-0-14,hsk2-3-0,14,站,zhàn,V,Đứng
+hsk2-3-0-15,hsk2-3-0,15,站起来,zhàn qǐlái,V,Đứng lên
+hsk2-3-0-16,hsk2-3-0,16,摔倒,shuāidǎo,V,"Ngã, té"
+hsk2-3-0-17,hsk2-3-0,17,疼,téng,Adj,"Đau lắm, trước khi đứng lên, anh xin lỗi em đi."
+hsk2-3-0-18,hsk2-3-0,18,次,cì,Lượng từ,Lần; lượt
+hsk2-3-0-19,hsk2-3-0,19,旅游,lǚyóu,V,Du lịch; du ngoạn
+hsk2-3-0-20,hsk2-3-0,20,旅行,lǚxíng,"V, N",Du lịch; lữ hành
+hsk2-3-0-21,hsk2-3-0,21,来,lái,V,Đến
+hsk2-3-0-22,hsk2-3-0,22,事,shì,N,Việc; sự việc
+hsk2-3-0-23,hsk2-3-0,23,生词,shēngcí,,Từ mới
+hsk2-3-0-24,hsk2-3-0,24,去年,qùnián,N,Năm ngoái
+mai-thao-1,mai-thao,1,人名,rénmíng,,Tên người
+mai-thao-2,mai-thao,2,白家月,Bái jiā yuè,,Bạch Gia Nguyệt
+mai-thao-3,mai-thao,3,王一飞,Wángyīfēi,,Vương Nhất Phi
+mai-thao-4,mai-thao,4,王一雪,Wángyīxuě,,Vương Nhất Tuyết
+mai-thao-5,mai-thao,5,让,ràng,,Bảo; để cho; khiến cho...
+mai-thao-6,mai-thao,6,束手无策,shùshǒuwúcè,Thành ngữ,hết cách; chịu chết; bó tay bất lực。
+mai-thao-7,mai-thao,7,复杂,fùzá,Adj,Phức tạp
+mai-thao-8,mai-thao,8,加班,jiābān,V,Tăng ca
+mai-thao-9,mai-thao,9,游戏,yóuxì,N,Chơi game
+mai-thao-10,mai-thao,10,赶紧,gǎnjǐn,Phó từ,khẩn trương; mau mau
+mai-thao-11,mai-thao,11,坐下来,zuò xiàlái,,Ngồi xuống
+mai-thao-12,mai-thao,12,接,jiē,V,Đón
+mai-thao-13,mai-thao,13,楼,lóu,N,Lầu
+mai-thao-14,mai-thao,14,张总,Zhāng zǒng,,Trương
+mai-thao-15,mai-thao,15,前,qián,N,Trước khi; trước đó
+mai-thao-16,mai-thao,16,院,yuàn,N,Sân
+mai-thao-17,mai-thao,17,站,zhàn,V,Đứng
+mai-thao-18,mai-thao,18,站起来,zhàn qǐlái,V,Đứng lên
+mai-thao-19,mai-thao,19,摔倒,shuāidǎo,V,"Ngã, té"
+mai-thao-20,mai-thao,20,疼,téng,Adj,"Đau lắm, trước khi đứng lên, anh xin lỗi em đi."
+mai-thao-21,mai-thao,21,次,cì,Lượng từ,Lần; lượt
+mai-thao-22,mai-thao,22,旅游,lǚyóu,V,Du lịch; du ngoạn
+mai-thao-23,mai-thao,23,旅行,lǚxíng,"V, N",Du lịch; lữ hành
+mai-thao-24,mai-thao,24,来,lái,V,Đến
+mai-thao-25,mai-thao,25,事,shì,N,Việc; sự việc
+mai-thao-26,mai-thao,26,生词,shēngcí,,Từ mới
+mai-thao-27,mai-thao,27,去年,qùnián,N,Năm ngoái
+mai-thao-28,mai-thao,28,不好意思,bù hǎoyìsi,,Xin lỗi; ngại quá
+mai-thao-29,mai-thao,29,帮忙,bāngmáng,V ly hợp,Giúp đỡ
+mai-thao-30,mai-thao,30,离合词,líhécí,,Động từ ly hợp
+mai-thao-31,mai-thao,31,同事,tóngshì,,Đồng nghiệp cùng nhau hát ở quán
+mai-thao-32,mai-thao,32,每,měi,Đại từ,Mỗi chủ nhật tôi và các đồng nghiệp đều cùng
+mai-thao-33,mai-thao,33,介绍,jièshào,V,Giới thiệu
+mai-thao-34,mai-thao,34,懂,dǒng,V,Hiểu
+mai-thao-35,mai-thao,35,意思,yìsi,N,Ý; ý nghĩa
+mai-thao-36,mai-thao,36,北京烤鸭,Běijīng kǎoyā,N,Vịt quay Bắc KInh
+mai-thao-37,mai-thao,37,选词填空,xuǎn cí tiánkòng,,Điền từ thích hợp vào chỗ trống.
+mai-thao-38,mai-thao,38,豆腐,dòufu,,Đậu hủ
+maithao-1,maithao,1,打车,dǎchē,N,Bắt xe
+maithao-2,maithao,2,远,yuǎn,Adj,Xa
+maithao-3,maithao,3,近,jìn,Adj,Gần
+maithao-4,maithao,4,雨,yǔ,,"Mưa, chúng ta bắt xe vê"
+maithao-5,maithao,5,不够,bùgòu,,"Không đủ .... B: tui không đủ tiề n, chúng ta bắt"
+maithao-6,maithao,6,北京大学,Běijīng Dàxué,,Đại học Bắc Kinh
+maithao-7,maithao,7,间,jiān,N,Gian (gian phòng)

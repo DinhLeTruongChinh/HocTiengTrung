@@ -1,0 +1,239 @@
+id,level,position,nhom,loai,sub,content
+1-0-0-0,1,1,Hình vị,Tiền tố,,"小—、第— (tiền tố: nhỏ, số thứ tự)"
+1-0-1-0,1,2,Hình vị,Hậu tố,,"—们、—边 (hậu tố chỉ số nhiều, phương hướng)"
+1-1-0-0,1,3,Từ loại,Danh từ,Danh từ chỉ phương vị,"上、下、里、外、前、后 (trên, dưới, trong, ngoài, trước, sau)"
+1-1-1-0,1,4,Từ loại,Động từ,Động từ năng nguyện,"会、能、想、要、可以 (biết, có thể, muốn, cần, được phép)"
+1-1-1-1,1,5,Từ loại,Động từ,Động từ ly hợp,看病、睡觉、说话、上课、下课、上班、下班、生病 (động từ tách được khi dùng)
+1-1-2-0,1,6,Từ loại,Đại từ,Đại từ nghi vấn,"多、多少、几、哪、哪儿、哪里、哪些、什么、谁、怎么、怎么样 (bao nhiêu, mấy, đâu, cái gì, ai, thế nào…)"
+1-1-2-1,1,7,Từ loại,Đại từ,Đại từ nhân xưng,"我、你、您、他、她、我们、你们、他们、她们、它、它们、大家 (tôi, bạn, ngài, anh ấy, cô ấy…)"
+1-1-2-2,1,8,Từ loại,Đại từ,Đại từ chỉ thị,"这、那、这儿、那儿、这里、那里、这些、那些、有的、这个、那个、有些 (này, kia, đây, đó, những…)"
+1-1-3-0,1,9,Từ loại,Số từ,,一、二/两、三、四、五、六、七、八、九、零、十、百、半、千 (số đếm)
+1-1-4-0,1,10,Từ loại,Lượng từ,Lượng từ danh từ,"本、个、家、口、块、件、只、元、杯 (lượng từ cho đồ vật, người, tiền…)"
+1-1-4-1,1,11,Từ loại,Lượng từ,Lượng từ thời gian,"日、号、岁、点、分、年、天 (ngày, tuổi, giờ, phút…)"
+1-1-5-0,1,12,Từ loại,Phó từ,Phó từ chỉ mức độ,"非常、很、太、真、有（一）点儿 (rất, quá, thật, hơi…)"
+1-1-5-1,1,13,Từ loại,Phó từ,Phó từ chỉ phạm vi,都 (đều)
+1-1-5-2,1,14,Từ loại,Phó từ,Phó từ chỉ thời gian,在、正在 (đang)
+1-1-5-3,1,15,Từ loại,Phó từ,Phó từ chỉ tần suất,再 (lại)
+1-1-5-4,1,16,Từ loại,Phó từ,Phó từ liên kết,"还、也 (còn, cũng)"
+1-1-5-5,1,17,Từ loại,Phó từ,Phó từ phủ định,"不、没（有）、不要 (không, chưa, đừng)"
+1-1-6-0,1,18,Từ loại,Giới từ,,"在、和、对 (ở, với, đối với)"
+1-1-7-0,1,19,Từ loại,Liên từ,,和 (và)
+1-1-8-0,1,20,Từ loại,Trợ từ,Trợ từ kết cấu,的 (trợ từ định ngữ)
+1-1-8-1,1,21,Từ loại,Trợ từ,Trợ từ động thái,了 (trợ từ chỉ hoàn thành/biến đổi)
+1-1-8-2,1,22,Từ loại,Trợ từ,Trợ từ ngữ khí,吧、吗、呢 (trợ từ cuối câu)
+1-1-9-0,1,23,Từ loại,Thán từ,,"喂 (này, a-lô)"
+1-2-0-0,1,24,Cụm từ,Cấu trúc cơ bản,,"联合短语 (cụm liên hợp), 偏正短语 (cụm chính – phụ), 动宾短语 (cụm động – tân), 主谓短语 (cụm chủ – vị)"
+1-2-1-0,1,25,Cụm từ,Cấu trúc khác,,"数量短语 (cụm số lượng), 介宾短语 (cụm giới – tân), 方位短语 (cụm phương vị)"
+1-3-0-0,1,26,Thành phần câu,,,主语 (chủ ngữ)、谓语 (vị ngữ)、宾语 (tân ngữ)、定语 (định ngữ)、状语 (trạng ngữ)、补语（动量补语 – bổ ngữ số lần)
+1-4-0-0,1,27,Câu,Loại câu,,陈述句 (câu trần thuật)、疑问句 (câu nghi vấn)、祈使句 (câu cầu khiến)、感叹句 (câu cảm thán)
+1-4-1-0,1,28,Câu,Câu đặc biệt,,“是”字句 (câu chữ 是)、 “有”字句 (câu chữ 有)、存现句 (câu tồn hiện)、连动句 (câu liên động)、双宾语句 (câu song tân)
+1-5-0-0,1,29,Câu ghép,,,……，也……；……，还…… (câu ghép không dùng liên từ)
+1-6-0-0,1,30,Thể của động tác,,,完成态 (hoàn thành)、变化态 (biến đổi)、进行态 (đang diễn ra)
+1-7-0-0,1,31,Cách diễn đạt đặc biệt,Biểu đạt số,,钱数表示法 (cách nói tiền)、序数表达法：第+数词 (số thứ tự)
+1-7-1-0,1,32,Cách diễn đạt đặc biệt,Biểu đạt thời gian,,"年、月、日、星期；钟点表示法 (cách nói ngày tháng, giờ giấc)"
+2-0-0-0,2,1,Hình vị,Hậu tố,,"面 (hậu tố chỉ mặt, bề mặt, phương diện)"
+2-1-0-0,2,2,Từ loại,Danh từ,Danh từ chỉ phương vị,"左、右 (trái, phải)"
+2-1-1-0,2,3,Từ loại,Động từ,Động từ lặp,AA、A 一 A、A 了 A、ABAB (các kiểu lặp động từ)
+2-1-1-1,2,4,Từ loại,Động từ,Động từ năng nguyện,"可能 (có thể, khả năng)"
+2-1-1-2,2,5,Từ loại,Động từ,Động từ ly hợp,帮忙、游泳、跳舞、跑步 (động từ tách được khi dùng)
+2-1-2-0,2,6,Từ loại,Đại từ,Đại từ nghi vấn,为什么 (tại sao)
+2-1-2-1,2,7,Từ loại,Đại từ,Đại từ nhân xưng,"自己 (bản thân, chính mình)"
+2-1-2-2,2,8,Từ loại,Đại từ,Đại từ chỉ thị,"那么、那样、这么、这样、每 (như vậy, mỗi)"
+2-1-3-0,2,9,Từ loại,Tính từ,Tính từ lặp,AA、AABB (cách lặp tính từ)
+2-1-4-0,2,10,Từ loại,Số từ,,"万、好多、多 (vạn, nhiều, rất nhiều)"
+2-1-5-0,2,11,Từ loại,Lượng từ,Lượng từ danh từ,条、位、间、名、包 (lượng từ chuyên dụng & mượn dùng)
+2-1-5-1,2,12,Từ loại,Lượng từ,Lượng từ động tác,次 (lần)
+2-1-6-0,2,13,Từ loại,Phó từ,Phó từ chỉ mức độ,"多、好、最 (nhiều, rất, nhất)"
+2-1-6-1,2,14,Từ loại,Phó từ,Phó từ chỉ phạm vi,一起 (cùng nhau)
+2-1-6-2,2,15,Từ loại,Phó từ,Phó từ chỉ thời gian,"还、已经、有时（候）、快、快要、正 (còn, đã, đôi khi, sắp, đang)"
+2-1-6-3,2,16,Từ loại,Phó từ,Phó từ chỉ tần suất,"常、经常 (thường, thường xuyên)"
+2-1-6-4,2,17,Từ loại,Phó từ,Phó từ phủ định,别 (đừng)
+2-1-6-5,2,18,Từ loại,Phó từ,Phó từ liên kết,"再、就 (lại, thì)"
+2-1-6-6,2,19,Từ loại,Phó từ,Phó từ ngữ khí,"都、就、还是 (đều, thì, hay là)"
+2-1-7-0,2,20,Từ loại,Giới từ,"Chỉ thời gian, nơi chốn",从 (từ)
+2-1-7-1,2,21,Từ loại,Giới từ,"Chỉ hướng, đường đi","往、从 (về phía, từ)"
+2-1-7-2,2,22,Từ loại,Giới từ,Chỉ đối tượng,"给、比、跟 (cho, so với, với)"
+2-1-7-3,2,23,Từ loại,Giới từ,Chỉ nguyên nhân,因为 (bởi vì)
+2-1-8-0,2,24,Từ loại,Liên từ,Nối từ/cụm từ,"跟 (và, với)"
+2-1-8-1,2,25,Từ loại,Liên từ,Nối mệnh đề/câu,"但、但是、那、虽然、还是、因为、所以 (nhưng, tuy, hay là, vì… nên…)"
+2-1-9-0,2,26,Từ loại,Trợ từ,Trợ từ kết cấu,得、地 (trợ từ bổ ngữ & trạng ngữ)
+2-1-9-1,2,27,Từ loại,Trợ từ,Trợ từ động thái,"过、着 (đã từng, đang/duy trì)"
+2-1-9-2,2,28,Từ loại,Trợ từ,Trợ từ ngữ khí,呢、吧、的、啊 (trợ từ cuối câu)
+2-2-0-0,2,29,Cụm từ,Cấu trúc khác,,“的”字短语 (cụm chữ 的)、连谓短语 (cụm liên vị)、兼语短语 (cụm kiêm ngữ)
+2-2-1-0,2,30,Cụm từ,Chức năng,,名词性短语、动词性短语、形容词性短语 (cụm danh/tính/động từ)
+2-2-2-0,2,31,Cụm từ,Cụm cố định,,"什么的 (vân vân, đại loại)"
+2-3-0-0,2,32,Mẫu cố định,,,还是……吧 (hay là… đi)、要/快要/就要……了 (sắp… rồi)、都……了 (đã… rồi)
+2-4-0-0,2,33,Thành phần câu,Chủ ngữ,,受事主语 (chủ ngữ chịu tác động)
+2-4-1-0,2,34,Thành phần câu,Vị ngữ,,名词性短语作谓语 (cụm danh từ làm vị ngữ)
+2-4-2-0,2,35,Thành phần câu,Định ngữ,,"动词/动词性短语/主谓短语作定语 (động từ, cụm chủ–vị làm định ngữ)"
+2-5-0-0,2,36,Bổ ngữ,Bổ ngữ kết quả,,动词+错/懂/好/会/完 (bổ ngữ kết quả)
+2-5-1-0,2,37,Bổ ngữ,Bổ ngữ xu hướng,,来/去；上、下、进、出、过、回；出来/进去/起来… (bổ ngữ phương hướng)
+2-5-2-0,2,38,Bổ ngữ,Bổ ngữ trạng thái,,动词+得+形容词性短语 (bổ ngữ trạng thái)
+2-5-3-0,2,39,Bổ ngữ,Bổ ngữ số lượng,,Thời lượng hành động; tính từ + số lượng
+2-6-0-0,2,40,Câu,Câu đơn,,主谓谓语句 (câu chủ–vị làm vị ngữ)
+2-6-1-0,2,41,Câu,Câu nghi vấn,,用“还是”的选择问句 (câu hỏi lựa chọn dùng 还是)
+2-6-2-0,2,42,Câu,Câu cầu khiến,,用“别”的祈使句 (câu mệnh lệnh dùng 别)
+2-7-0-0,2,43,Câu đặc biệt,,,“是”字句 (giải thích/đặc trưng)、 “有”字句 (mức độ đạt được)、存现句、比较句、“是……的”句
+2-8-0-0,2,44,Câu ghép,,,选择复句、转折复句、因果复句、紧缩复句
+2-9-0-0,2,45,Thể của động tác,,,持续态 (đang/duy trì)、经历态 (đã từng)
+2-10-0-0,2,46,Cách diễn đạt đặc biệt,Biểu đạt số,,序数表示法：数词+量词；概数表达法 (ước lượng số)
+3-0-0-0,3,1,Hình vị,Tiền tố,,"老— (tiền tố chỉ quen thuộc, lâu năm)"
+3-0-1-0,3,2,Hình vị,Hậu tố,,"—家、—子、—员 (hậu tố chỉ người, sự vật, nghề nghiệp)"
+3-1-0-0,3,3,Từ loại,Danh từ,Danh từ chỉ phương vị,"东、南、西、北、北方、东方、南方、西方、中间 (đông, tây, nam, bắc, trung gian…)"
+3-1-1-0,3,4,Từ loại,Động từ,Động từ năng nguyện,"需要、该、应该、愿意、得 (cần, nên, phải, sẵn sàng, được)"
+3-1-1-1,3,5,Từ loại,Động từ,Động từ ly hợp,动宾式：放假、见面、结婚、洗澡；动补式：离开、完成、分开 (động từ tách được)
+3-1-2-0,3,6,Từ loại,Đại từ,Đại từ nghi vấn,怎样 (như thế nào)
+3-1-2-1,3,7,Từ loại,Đại từ,Cách dùng phi nghi vấn,任 chỉ: 疑问代词+都；疑问代词+疑问代词；不定 chỉ (chỉ không xác định)
+3-1-2-2,3,8,Từ loại,Đại từ,Đại từ nhân xưng,"别人、咱们 (người khác, chúng ta)"
+3-1-2-3,3,9,Từ loại,Đại từ,Đại từ chỉ thị,"别的、其他 (khác, những cái khác)"
+3-1-3-0,3,10,Từ loại,Lượng từ,Lượng từ danh từ,把、双、张、种、层、封、页、辆、节、所、班、段、头、句；公斤、斤、角、毛、刻、米
+3-1-3-1,3,11,Từ loại,Lượng từ,Lượng từ mượn dùng,碗、盘
+3-1-3-2,3,12,Từ loại,Lượng từ,Lượng từ động tác,口、回、遍、声
+3-1-3-3,3,13,Từ loại,Lượng từ,Lượng từ lặp,个个、张张 (mỗi… đều…)
+3-1-4-0,3,14,Từ loại,Phó từ,Phó từ chỉ mức độ,"比较、还、更、特别、挺、有些、越、极 (khá, càng, rất…)"
+3-1-4-1,3,15,Từ loại,Phó từ,Phó từ chỉ phạm vi,就、一块儿、一共、只、到处、只是
+3-1-4-2,3,16,Từ loại,Phó từ,Phó từ chỉ thời gian,才、马上、先、一会儿、刚、刚刚、一直
+3-1-4-3,3,17,Từ loại,Phó từ,Phó từ chỉ tần suất,总、总是、又、常常
+3-1-4-4,3,18,Từ loại,Phó từ,Phó từ liên kết,一边 (vừa… vừa…)
+3-1-4-5,3,19,Từ loại,Phó từ,Phó từ tình thái,大概、必须、差不多、一定、好像、几乎
+3-1-4-6,3,20,Từ loại,Phó từ,Phó từ ngữ khí,当然、其实、终于、才、就
+3-1-4-7,3,21,Từ loại,Phó từ,Phó từ phủ định,不必、不用 (không cần)
+3-1-5-0,3,22,Từ loại,Giới từ,Chỉ đối tượng,为、向、关于
+3-1-5-1,3,23,Từ loại,Giới từ,"Chỉ hướng, đường đi",向
+3-1-5-2,3,24,Từ loại,Giới từ,"Chỉ mục đích, nguyên nhân",为了、为
+3-1-5-3,3,25,Từ loại,Giới từ,Chỉ tác thể / thụ thể,把、被
+3-1-5-4,3,26,Từ loại,Giới từ,Chỉ căn cứ,根据
+3-1-6-0,3,27,Từ loại,Liên từ,Nối từ/cụm từ,或、或者
+3-1-6-1,3,28,Từ loại,Liên từ,Nối mệnh đề/câu,只有、只要、不但、而且、如果、可、可是、然后
+3-1-7-0,3,29,Từ loại,Trợ từ,Khác,"的话 (nếu mà, giả định)"
+3-2-0-0,3,30,Cụm từ,Cấu trúc khác,,同位短语 (cụm đồng vị)、动补短语 (cụm động – bổ)、数量重叠
+3-2-1-0,3,31,Cụm từ,Cụm cố định,Bốn chữ,不 A 不 B (không thế này cũng không thế kia)
+3-2-2-0,3,32,Cụm từ,Khác,,不一会儿、看来、在……看来、越来越、看起来、看上去、一般来说、不怎么样
+3-3-0-0,3,33,Mẫu cố định,,,除了……（以外）……还/也/都……；从……起；对……来说；一……也/都不……；一点儿也不；越……越……；……以前/以后；X 什么；该……了；在……上/下/中
+3-4-0-0,3,34,Thành phần câu,Chủ ngữ,,Động từ / tính từ / cụm chủ–vị làm chủ ngữ
+3-4-1-0,3,35,Thành phần câu,Định ngữ,,多项定语 (nhiều định ngữ)
+3-5-0-0,3,36,Bổ ngữ,Bổ ngữ kết quả,,动词+到/住/走/上
+3-5-1-0,3,37,Bổ ngữ,Bổ ngữ xu hướng,,Nghĩa mở rộng: kết quả、bắt đầu、tiếp diễn
+3-5-2-0,3,38,Bổ ngữ,Bổ ngữ khả năng,,动词+得/不+动词/形容词
+3-5-3-0,3,39,Bổ ngữ,Bổ ngữ mức độ,,得很；极了；坏了
+3-5-4-0,3,40,Bổ ngữ,Bổ ngữ số lượng,,Khoảng thời gian từ khi kết thúc đến mốc nào đó
+3-6-0-0,3,41,Câu,Câu nghi vấn,,“怎样+动词”的特指问句
+3-6-1-0,3,42,Câu,Câu phản vấn,,不是……吗？ (câu hỏi phản vấn nhấn mạnh)
+3-7-0-0,3,43,Câu đặc biệt,,,把字句、被动句、连动句、比较句、存现句、 “是……的”句、重动句
+3-8-0-0,3,44,Câu ghép,,,承接、选择、并列、递进、转折、假设、条件、目的、紧缩复句
+3-9-0-0,3,45,Cách diễn đạt đặc biệt,Biểu đạt số,,概数表达法：大概；số liền kề
+4-0-0-0,4,1,Từ loại,Động từ,Động từ năng nguyện,敢
+4-0-1-0,4,2,Từ loại,Đại từ,Đại từ chỉ thị,各、各位、各种、任何、此
+4-0-2-0,4,3,Từ loại,Lượng từ,Lượng từ danh từ,（1）专用名量词：打、袋、棵、台、幅；（2）借用名量词：脸、手、盒、屋子、桌子
+4-0-2-1,4,4,Từ loại,Lượng từ,Lượng từ động tác,场、顿、趟
+4-0-3-0,4,5,Từ loại,Phó từ,Phó từ chỉ mức độ,十分、更加、稍、稍微、尤其、多么
+4-0-3-1,4,6,Từ loại,Phó từ,Phó từ chỉ phạm vi,共、全、光、仅、仅仅、至少
+4-0-3-2,4,7,Từ loại,Phó từ,Phó từ chỉ thời gian,按时、从来、赶紧、赶快、已、忽然、将、将要、从、本来
+4-0-3-3,4,8,Từ loại,Phó từ,Phó từ chỉ tần suất,重新、往往、偶尔、再次、老
+4-0-3-4,4,9,Từ loại,Phó từ,Phó từ chỉ cách thức,故意、互相、相互
+4-0-3-5,4,10,Từ loại,Phó từ,Phó từ liên kết,却
+4-0-3-6,4,11,Từ loại,Phó từ,Phó từ tình thái,也许、恐怕
+4-0-3-7,4,12,Từ loại,Phó từ,Phó từ ngữ khí,才 4、就 5、并 1、还 4、竟然、究竟、正好、到底、难道、千万、确实、只好、差（一）点儿
+4-0-4-0,4,13,Từ loại,Giới từ,"Chỉ thời gian, nơi chốn",自、当、由 1、随着、等 1
+4-0-4-1,4,14,Từ loại,Giới từ,Chỉ tác thể / thụ thể,将、由 2、叫、让
+4-0-4-2,4,15,Từ loại,Giới từ,Chỉ nguyên nhân,由于 1
+4-0-4-3,4,16,Từ loại,Giới từ,Chỉ đối tượng,对于、与 1
+4-0-4-4,4,17,Từ loại,Giới từ,Chỉ căn cứ,作为、按、按照
+4-0-5-0,4,18,Từ loại,Liên từ,Nối từ / cụm từ,并 2、而 1、与 2
+4-0-5-1,4,19,Từ loại,Liên từ,Nối mệnh đề / câu,此外、而 2、既然、甚至、不过、并且、不光、不仅、另外、要是、因此、由于 2、加上
+4-0-6-0,4,20,Từ loại,Trợ từ,Trợ từ khác,等 2、者、之、就是
+4-0-7-0,4,21,Từ loại,Thán từ,,啊、嗯
+4-1-0-0,4,22,Cụm từ,Kiểu cấu trúc,,数词+形容词+量词
+4-2-0-0,4,23,Cụm cố định,Bốn chữ,,一 A 一 B、无 A 无 B、有 A 有 B
+4-2-1-0,4,24,Cụm cố định,Khác,,来得及/来不及、有的是、说不定、不怎么、就是说/这就是说
+4-3-0-0,4,25,Mẫu cố định,,,一+量词+比+一+量词；在……方面；够……的；拿……来说；再也不/没……；怎么都/也+不/ 没……；为了……而……；动词+一 X 是一 X；（没）有什么（好）X 的；X 是 X，Y 是 Y；X 也得 X，不 X 也得 X；X 就是了；还 X 呢；你 X 你的吧；让/叫你 X 你就 X；说什么/怎么（着）也得 X；X 就 X（点儿）吧；X 是 X
+4-4-0-0,4,26,Thành phần câu,Bổ ngữ,Bổ ngữ mức độ,形容词/心理动词+死了/厉害
+4-4-0-1,4,27,Thành phần câu,Bổ ngữ,Bổ ngữ khả năng,动词+得/不+了
+4-5-0-0,4,28,Loại câu,Câu phản vấn,,难道……吗？；由疑问代词构成的反问句
+4-6-0-0,4,29,Câu đặc biệt,Câu “把”,,把字句 2（4 dạng）
+4-6-1-0,4,30,Câu đặc biệt,Câu bị động,,被动句 2：主语+叫/让+宾语+动词+其他成分
+4-6-2-0,4,31,Câu đặc biệt,Câu kiêm ngữ,,兼语句 2（biểu yêu ghét / xưng danh / gây khiến）
+4-7-0-0,4,32,Câu so sánh,,,比较句 3：A 不如 B；跟……相比
+4-8-0-0,4,33,Câu phủ định đặc biệt,,,双重否定句
+4-9-0-0,4,34,Câu ghép,Song song,,不是……，而是……；既……，又/也……；一方面……，另一方面……
+4-9-1-0,4,35,Câu ghép,Kế tiếp,,首先……，其次……；首先……，然后……；……，于是……
+4-9-2-0,4,36,Câu ghép,Tăng tiến,,……甚至……；不仅/不光……还/而且……；连……也/都……
+4-9-3-0,4,37,Câu ghép,Lựa chọn,,不是……，就是……
+4-9-4-0,4,38,Câu ghép,Chuyển 折,,尽管……但是/可是……；……然而……；……不过……
+4-9-5-0,4,39,Câu ghép,Giả thiết,,……否则……；要是……就……
+4-9-6-0,4,40,Câu ghép,Điều kiện,,不管……都/也……；无论……都/也……
+4-9-7-0,4,41,Câu ghép,Nguyên nhân – kết quả,,既然……就……；（由于）……因此……
+4-9-8-0,4,42,Câu ghép,Mục đích,,……好……
+4-9-9-0,4,43,Câu ghép,Nhượng bộ,,即使……也……；就是……也……
+4-9-10-0,4,44,Câu ghép,Rút gọn,,无标记；不……也……
+4-10-0-0,4,45,Cách diễn đạt đặc biệt,Biểu đạt số,,概数表示法 3：数词+来+量词；大约/左右/前后；小数、分数、百分数、倍数
+5-0-0-0,5,1,Hình vị,Hậu tố,,—头
+5-1-0-0,5,2,Từ loại,Đại từ,Đại từ chỉ thị,彼此、如此、本
+5-1-1-0,5,3,Từ loại,Lượng từ,Lượng từ danh từ,册、朵、届、颗、匹、行、架、群、支、根、批、束、副、集、周
+5-1-1-1,5,4,Từ loại,Lượng từ,Lượng từ động tác,眼
+5-1-2-0,5,5,Từ loại,Phó từ,Phó từ chỉ mức độ,过于、相当、较 1、可 2、格外、极其
+5-1-2-1,5,6,Từ loại,Phó từ,Phó từ chỉ thời gian,时刻、曾经、立刻、连忙、始终、早已、即将、急忙、渐渐、尽快、早晚
+5-1-2-2,5,7,Từ loại,Phó từ,Phó từ chỉ tần suất,老是、通常、时常
+5-1-2-3,5,8,Từ loại,Phó từ,Phó từ chỉ cách thức,尽量、亲自
+5-1-2-4,5,9,Từ loại,Phó từ,Phó từ liên kết,便、一旦
+5-1-2-5,5,10,Từ loại,Phó từ,Phó từ tình thái,似乎、仿佛
+5-1-2-6,5,11,Từ loại,Phó từ,Phó từ ngữ khí,毕竟、居然、反正、根本、果然、简直、绝对、的确、反而、白、刚好、可 3
+5-1-3-0,5,12,Từ loại,Giới từ,"Chỉ thời gian, nơi chốn",自从
+5-1-3-1,5,13,Từ loại,Giới từ,"Chỉ hướng, lộ trình",朝、沿（着）
+5-1-3-2,5,14,Từ loại,Giới từ,Chỉ đối tượng,替、同 1、较 2
+5-1-3-3,5,15,Từ loại,Giới từ,Chỉ căn cứ,凭、据、依据
+5-1-4-0,5,16,Từ loại,Liên từ,Nối từ / cụm từ,以及、同 2
+5-1-4-1,5,17,Từ loại,Liên từ,Nối mệnh đề / câu,从而、可见、假如、总之
+5-1-5-0,5,18,Từ loại,Trợ từ,Trợ từ khác,似的
+5-2-0-0,5,19,Cụm từ cố định,Bốn chữ,,A 来 A 去、A 着 A 着、没 A 没 B、说 A 就 A
+5-2-1-0,5,20,Cụm từ cố định,Khác,,不得了、用不着、从……来看、A 的 A，B 的 B、（自）……以来、由……组成、X 也不是，Y 也不是、 X 也 X 不得，Y 也 Y 不得
+5-3-0-0,5,21,Mẫu cố định,,,X 是它，Y 也是它；X 着也是 X 着；不管怎样说；真有你/他/她的；X 什么 X；什么 X 不 X（的）；不 X 白不 X；X 来 X 去，都是/就是……；动词+什么（就）是什么
+5-4-0-0,5,22,Thành phần câu,Trạng ngữ,,多项状语
+5-5-0-0,5,23,Bổ ngữ,Bổ ngữ khả năng,,动词+得/不得
+5-5-1-0,5,24,Bổ ngữ,Bổ ngữ mức độ,,形容词/心理动词+得+不得了
+5-5-2-0,5,25,Bổ ngữ,Bổ ngữ xu hướng,,趋向补语 3：表示状态意义：动词/形容词+下来/下去/起来/过来/过去
+5-5-3-0,5,26,Bổ ngữ,Bổ ngữ trạng thái,,（1）动词/形容词+得+动词短语；（2）动词/形容词+得 +主谓短语；（3）动词/形容词+得+固定短语
+5-6-0-0,5,27,Câu đặc biệt,Câu “有”,,有字句 3：（1）主语+有+着+宾语；（2）主语+动词+有+ 宾语
+5-6-1-0,5,28,Câu đặc biệt,Câu “把”,,把字句 3：（1）主语+把+宾语+一+动词；（2）主语+把+ 宾语 1+动词+宾语 2
+5-6-2-0,5,29,Câu đặc biệt,Câu liên động,,连动句 3：前后两个动词性词语具有因果、转折、条件关系
+5-6-3-0,5,30,Câu đặc biệt,Câu so sánh,,比较句 4：A+形容词+B+数量补语
+5-6-4-0,5,31,Câu đặc biệt,Câu bị động,,被动句 3：主语+被/叫/让+宾语+给+动词+其他成分
+5-7-0-0,5,32,Câu ghép,Kế tiếp,,……，便……
+5-7-1-0,5,33,Câu ghép,Lựa chọn,,或是……，或是……
+5-7-2-0,5,34,Câu ghép,Giả thiết,,一旦……，就……；假如……，（就）……；万一……，（就）……；……，要不然/不然……
+5-7-3-0,5,35,Câu ghép,Nguyên nhân – kết quả,,……，因而……；……，可见……
+5-7-4-0,5,36,Câu ghép,Nhượng bộ,,哪怕……，也……
+5-7-5-0,5,37,Câu ghép,Tăng tiến,,不但不/不但没有……，反而……；不是……，还/还是……
+5-7-6-0,5,38,Câu ghép,Mục đích,,……，为的是……
+5-7-7-0,5,39,Câu ghép,Rút gọn,,没有……就没有……；不……不……；再……也……
+6-0-0-0,6,1,Hình vị,Tiền tố giả,,超—、多—、反—、无—、亚—、准—
+6-0-1-0,6,2,Hình vị,Hậu tố giả,,—化、—式、—型、—性
+6-1-0-0,6,3,Từ loại,Đại từ,Đại từ nhân xưng,人家
+6-1-1-0,6,4,Từ loại,Lượng từ,Lượng từ danh từ,串、滴、枝、扇、卷 1、卷 2
+6-1-1-1,6,5,Từ loại,Lượng từ,Lượng từ động tác,番
+6-1-2-0,6,6,Từ loại,Phó từ,Phó từ chỉ mức độ,特、异常、较为
+6-1-2-1,6,7,Từ loại,Phó từ,Phó từ chỉ phạm vi,净、一同、大都
+6-1-2-2,6,8,Từ loại,Phó từ,Phó từ chỉ thời gian,一时、不时、仍旧、依旧、一向
+6-1-2-3,6,9,Từ loại,Phó từ,Phó từ chỉ tần suất,一再、再三
+6-1-2-4,6,10,Từ loại,Phó từ,Phó từ chỉ cách thức,不禁、赶忙、特地、特意、偷偷
+6-1-2-5,6,11,Từ loại,Phó từ,Phó từ phủ định,未必
+6-1-2-6,6,12,Từ loại,Phó từ,Phó từ ngữ khí,恰好、倒是、干脆、明明、总算
+6-1-3-0,6,13,Từ loại,Giới từ,"Chỉ thời gian, nơi chốn",于
+6-1-3-1,6,14,Từ loại,Giới từ,Chỉ đối tượng,至于
+6-1-3-2,6,15,Từ loại,Giới từ,"Chỉ mục đích, nguyên nhân",因
+6-1-3-3,6,16,Từ loại,Giới từ,Biểu thị loại trừ,除
+6-1-4-0,6,17,Từ loại,Liên từ,Nối mệnh đề / câu,不料
+6-1-5-0,6,18,Từ loại,Trợ từ,Trợ từ kết cấu,所
+6-1-5-1,6,19,Từ loại,Trợ từ,Trợ từ ngữ khí,啦、嘛
+6-1-5-2,6,20,Từ loại,Trợ từ,Trợ từ khác,也好
+6-2-0-0,6,21,Cụm từ cố định,Bốn chữ,,A 这 A 那、左 A 右 B
+6-2-1-0,6,22,Cụm từ cố định,Khác,,好（不）容易、那倒（也）是、算了、得了
+6-3-0-0,6,23,Mẫu cố định,,,A 一+量词，B 一+量词；东一 A，西一 A；到……为止；X 到 Y 头上来了；不 X 不……，一 X……；好你个 X；早（也）不 X，晚（也）不 X；看/瞧+把+宾语（施事）+X 得；放着 X 不 Y；X 了就 X 了，（没）有……；这/那也不 X，那/这也不 Y；X 归 X，Y 归 Y；看你 X 的/瞧他 X 的
+6-4-0-0,6,24,Thành phần câu,Bổ ngữ,Bổ ngữ mức độ,程度补语 3：动词/形容词+透+了
+6-5-0-0,6,25,Câu đặc biệt,Câu “把”,,把字句 4：（1）主语（非生物体）+把+宾语+动词+其他成分；（2）主语+把+宾语（施事）+动词+其他成分
+6-6-0-0,6,26,Câu ghép,Song song,,一时……一时……
+6-6-1-0,6,27,Câu ghép,Lựa chọn,,要么……，要么……
+6-6-2-0,6,28,Câu ghép,Chuyển hướng,,虽……，但/可/却/也……
+6-6-3-0,6,29,Câu ghép,Điều kiện,,凡是……，都……；除非……，才……；除非……，否则/不然……
+6-6-4-0,6,30,Câu ghép,Nhượng bộ,,就算……，也……
+6-6-5-0,6,31,Câu ghép,Mục đích,,……，以便……
