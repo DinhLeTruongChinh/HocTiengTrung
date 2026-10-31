@@ -26,7 +26,7 @@ export default function ThuyAdmin() {
   useEffect(() => { load() }, [load])
 
   const upload = async (e: ChangeEvent<HTMLInputElement>) => {
-    const files = [...(e.target.files ?? [])]; e.target.value = ''
+    const files = Array.from(e.target.files ?? []);e.target.value = '';
     if (!files.length) return
     setBusy(true); let ok = 0, fail: string[] = []
     let pos = Math.max(0, ...mats.map(m => m.position))
